@@ -17,10 +17,7 @@ def configure_page():
 
 def get_database_url():
     """Get database URL from environment or default"""
-    return os.getenv(
-        "DATABASE_URL",
-        "postgresql://neondb_owner:npg_StHOc3FBpN2M@ep-twilight-scene-adsg231w-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
-    )
+    return os.getenv(DATABASE_URL)
 
 
 # ==================== DATABASE CONNECTION ====================
