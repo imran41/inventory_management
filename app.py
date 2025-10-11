@@ -6,9 +6,7 @@ import pandas as pd
 from datetime import datetime
 import uuid
 import plotly.express as px
-from dotenv import load_dotenv
 
-load_dotenv()
 
 
 # ==================== CONFIGURATION ====================
