@@ -5,7 +5,7 @@ from datetime import datetime
 
 # ================= CONFIG =================
 PER_QUESTION_TIME = 30  # seconds per question
-CSV_FILE_PATH = "TASK_STATUS - Sheet15(3).csv"
+CSV_FILE_PATH = "mcq.csv"
 
 # ================= STYLING =================
 def apply_custom_css():
