@@ -1,0 +1,70 @@
+question,option1,option2,option3,option4,option5,answer
+Which OS component handles CPU scheduling?,Shell,Loader,Scheduler,Compiler,None of the above,C
+Context switching occurs when,Process terminates,Interrupt occurs,Process state changes,All of the above,None of the above,D
+Starvation is completely avoided in which scheduling?,Priority,SJF,FCFS,Round Robin,None of the above,D
+"If arrival times are different, FCFS scheduling may cause",Starvation,Deadlock,Convoy effect,Livelock,None of the above,C
+Which scheduling is preemptive by nature?,FCFS,SJF,Priority,Round Robin,None of the above,D
+Which OS module allocates memory blocks?,Process management,File management,Memory management,I/O management,None of the above,C
+Best Fit algorithm may cause,External fragmentation,Internal fragmentation,Starvation,Deadlock,None of the above,A
+Worst Fit allocates memory to,Minimize waste,Maximize waste,Smallest block,Largest block,None of the above,D
+Next Fit is extension of,Best Fit,Worst Fit,First Fit,Paging,None of the above,C
+Which file system supports journaling?,FAT,NTFS,EXT2,MFS,None of the above,B
+Kernel operates in which mode?,User mode,Kernel mode,Supervisor mode,Both B and C,None of the above,D
+Which interface is text based?,GUI,MUI,CUI/CLI,SUI,None of the above,C
+"In DBMS, concurrency control is needed to avoid",Inconsistency,Redundancy,Deadlock,All of the above,None of the above,A
+File system concurrency level is,File level,Row level,Record level,Block level,None of the above,A
+DBMS provides abstraction at how many levels?,1,2,3,4,None of the above,C
+Which schema hides physical storage details from user?,External,Conceptual,Physical,Internal,None of the above,A
+Logical schema describes,Tables & relationships,Disks & files,User views,Hardware,None of the above,A
+Which user manages physical schema?,End user,Developer,DBA,Programmer,None of the above,C
+Logical data independence protects against,Storage change,Table change,View change,User change,None of the above,B
+Physical data independence protects against,Table structure change,Disk location change,Schema change,View change,None of the above,B
+Data dictionary is maintained by,User,DBA,DBMS,OS,None of the above,C
+Which key can have NULL values?,Primary key,Candidate key,Alternate key,Composite key,None of the above,C
+Minimum super key is called,Composite key,Primary key,Candidate key,Foreign key,None of the above,C
+"If candidate key is (A,B), then A alone determining non-prime causes",Transitive dependency,Partial dependency,Join dependency,Functional dependency,None of the above,B
+3NF eliminates,Partial dependency,Transitive dependency,Multivalued dependency,Join dependency,None of the above,B
+BCNF is stricter than 3NF because,It removes transitive dependency,It removes partial dependency,Determinant must be key,It removes MVD,None of the above,C
+Foreign key enforces,Domain integrity,Entity integrity,Referential integrity,Transaction integrity,None of the above,C
+ON DELETE CASCADE means,Child delete blocked,Parent delete blocked,Child rows auto deleted,Parent auto inserted,None of the above,C
+Insert anomaly occurs due to,Data duplication,Poor indexing,Table design,View creation,None of the above,A
+Which normal form removes insert anomaly?,1NF,2NF,3NF,BCNF,None of the above,B
+Which SQL command cannot be rolled back?,DELETE,UPDATE,INSERT,TRUNCATE,None of the above,D
+DDL commands are auto committed because,They are fast,They change structure,They use indexes,They are read only,None of the above,B
+Which SQL command changes table structure?,UPDATE,ALTER,INSERT,SELECT,None of the above,B
+Which command removes selected rows only?,DELETE,DROP,TRUNCATE,REMOVE,None of the above,A
+Which clause filters grouped data?,WHERE,HAVING,GROUP BY,ORDER BY,None of the above,B
+WHERE clause cannot be used with,Aggregate result,Row condition,Primary key,Index,None of the above,A
+HAVING works on,Groups,Rows,Tables,Views,None of the above,A
+GROUP BY is evaluated before,SELECT,HAVING,WHERE,ORDER BY,None of the above,B
+DISTINCT works on,Single column only,Entire row combination,Primary key only,Foreign key only,None of the above,B
+COUNT(column) ignores,NULL values,Duplicate values,Primary keys,Foreign keys,None of the above,A
+COUNT(*) counts,NULL rows only,Non-null rows,All rows,Distinct rows,None of the above,C
+AVG() ignores,NULL values,Duplicates,Zeros,Keys,None of the above,A
+ORDER BY default sorting is,DESC,Random,ASC,Natural,None of the above,C
+Which SQL function returns first non-null value?,NULLIF,NVL,COALESCE,ISNULL,None of the above,C
+"NULLIF(a,b) returns NULL when",a>b,a<b,a=b,a!=b,None of the above,C
+Scalar functions operate on,Column set,Single value,Group,View,None of the above,B
+Group functions return,Multiple rows,Single value,Table,View,None of the above,B
+Which is NOT a group function?,COUNT,SUM,MAX,UPPER,None of the above,D
+UPPER() is a,String function,Numeric function,Date function,Group function,None of the above,A
+SUBSTR() is used for,Joining strings,Extracting string,Changing case,Trimming spaces,None of the above,B
+LTRIM() removes,Right spaces,Left spaces,Both sides,Nulls,None of the above,B
+MONTHS_BETWEEN() returns,Days,Months,Years,Date,None of the above,B
+TO_CHAR() converts,Char to date,Date to char,Char to number,Number to binary,None of the above,B
+CHAR datatype always occupies,Actual length,Defined length,Variable length,Dynamic length,None of the above,B
+VARCHAR saves space because it is,Fixed length,Variable length,Numeric,Text only,None of the above,B
+RAW datatype stores,Text,Date,Numeric,Binary,None of the above,D
+PRIMARY KEY can be defined at,Column level only,Table level only,Both column and table level,View level,None of the above,C
+FOREIGN KEY can reference,Any column,Primary key only,Unique or primary key,View,None of the above,C
+UNIQUE constraint allows,Multiple NULLs,No NULLs,Duplicates,Only one row,None of the above,A
+CHECK constraint enforces,Referential integrity,Domain integrity,Entity integrity,Key integrity,None of the above,B
+DEFAULT constraint applies when,Value is invalid,Value is duplicate,Value not provided,Value is NULL only,None of the above,C
+COMMIT makes changes,Permanent,Temporary,Rollbackable,Savepoint,None of the above,A
+ROLLBACK can undo changes,Until savepoint,Until commit,Until delete,Until truncate,None of the above,A
+SAVEPOINT allows,Rollback all,Rollback partial,Commit partial,Delete partial,None of the above,B
+Which command gives user permission?,GRANT,REVOKE,COMMIT,INSERT,None of the above,A
+REVOKE removes,Constraints,Data,Permissions,Indexes,None of the above,C
+Which SQL clause is executed last?,WHERE,GROUP BY,HAVING,ORDER BY,None of the above,D
+CREATE TABLE without PRIMARY KEY allows,Duplicate rows,NULL rows,Both A and B,Error,None of the above,C
+Which SQL statement is declarative?,SELECT,IF,WHILE,FOR,None of the above,A
