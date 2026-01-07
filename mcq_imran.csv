@@ -1,0 +1,45 @@
+question,option1,option2,option3,option4,option5,answer
+SQL JOIN is used to,Insert data,Update data,Combine data from multiple tables,Delete data,None of the above,C
+JOIN combines tables based on,Different columns,Common column,Primary key only,Foreign key only,None of the above,B
+INNER JOIN returns,All rows from left table,All rows from right table,Only matching rows,All rows from both tables,None of the above,C
+LEFT JOIN returns,Only matching rows,All left + matching right,All right + matching left,Only left rows,None of the above,B
+RIGHT JOIN returns,All left rows,Only matching rows,All right + matching left,Only right rows,None of the above,C
+FULL JOIN returns,Only matching rows,Left rows only,Right rows only,All rows from both tables,None of the above,D
+NATURAL JOIN joins tables based on,User condition,Same column name and datatype,Primary key only,Foreign key only,None of the above,B
+JOIN is mainly used to,Avoid normalization,Increase redundancy,Fetch related data,Delete tables,None of the above,C
+Serializability is a property of,SQL queries,Database schema,Transaction schedules,Indexes,None of the above,C
+Serializability ensures,Data redundancy,Data inconsistency,Correct concurrent execution,Faster execution,None of the above,C
+Serializable schedule gives result same as,Parallel execution,Non-serial execution,Serial execution,Random execution,None of the above,C
+Main purpose of serializability is to,Maintain consistency,Improve speed,Reduce memory usage,Create indexes,None of the above,A
+Conflict serializability allows,No reordering,Reordering of transactions,Partial execution,Deadlock,None of the above,B
+Conflict serializability is based on,Result values,Read/write conflicts,Locking protocol,View equivalence,None of the above,B
+View serializability focuses on,Conflicts,Final output,Locks,Order of execution,None of the above,B
+View serializability requires reordering,Always,Never,Sometimes,Only conflicts,None of the above,B
+Which is easier to test?,View serializability,Conflict serializability,Both equally,None,None of the above,B
+Two Phase Locking is a,Recovery technique,Concurrency control protocol,Indexing method,Query optimization,None of the above,B
+Two Phase Locking ensures,Deadlock only,Serializability only,Both consistency and control,Backup,None of the above,C
+Two Phase Locking has how many phases?,1,2,3,4,None of the above,B
+First phase of 2PL is,Growing,Shrinking,Commit,Rollback,None of the above,A
+"In growing phase, transaction can",Release locks only,Acquire locks only,Both acquire and release locks,Do nothing,None of the above,B
+"In shrinking phase, transaction can",Acquire locks only,Release locks only,Both acquire and release locks,Lock again,None of the above,B
+"After releasing a lock in 2PL, transaction can",Acquire new lock,Release more locks,Restart transaction,Abort immediately,None of the above,B
+Two Phase Locking helps in,Avoiding starvation,Avoiding inconsistency,Avoiding redundancy,Avoiding indexing,None of the above,B
+Strict 2PL releases exclusive locks,Anytime,Before commit,Only after commit,Never,None of the above,C
+Strict 2PL mainly prevents,Deadlock,Dirty read,Livelock,Starvation,None of the above,B
+Rigorous 2PL releases locks,After each operation,Only shared locks early,All locks at end,Randomly,None of the above,C
+Rigorous 2PL holds which locks till end?,Only shared,Only exclusive,Both shared and exclusive,None,None of the above,C
+Conservative 2PL acquires locks,One by one,After execution,During shrinking phase,Before execution,None of the above,D
+Conservative 2PL completely avoids,Starvation,Deadlock,Livelock,Inconsistency,None of the above,B
+Main drawback of Conservative 2PL is,High deadlock,Low concurrency,Data loss,Dirty read,None of the above,B
+Strict 2PL is stricter than basic 2PL because,It avoids deadlock,It avoids dirty reads,It avoids starvation,It avoids conflicts,None of the above,B
+Rigorous 2PL is stricter than Strict 2PL because,It releases locks early,It releases no locks early,It avoids deadlock,It avoids rollback,None of the above,B
+Which variation gives maximum safety?,Basic 2PL,Strict 2PL,Rigorous 2PL,Conservative 2PL,None of the above,C
+Which variation gives zero deadlock?,Basic 2PL,Strict 2PL,Rigorous 2PL,Conservative 2PL,None of the above,D
+2PL guarantees which property?,Recoverability,Serializability,Atomicity,Durability,None of the above,B
+JOIN keyword is used in which clause?,SELECT,WHERE,FROM,GROUP BY,None of the above,C
+Multiple tables in SELECT are combined using,JOIN,UNION,INTERSECT,EXCEPT,None of the above,A
+Conflict serializability is checked using,Result comparison,Precedence graph,Lock table,View table,None of the above,B
+View serializability is harder to test because,It uses locks,It checks final result,It checks conflicts,It uses graphs,None of the above,B
+Serial execution means,Multiple transactions at once,One transaction at a time,Random execution,Parallel execution,None of the above,B
+Concurrent execution improves,Consistency only,Throughput only,Performance and utilization,Deadlock,None of the above,C
+2PL ensures correctness but may cause,Starvation,Deadlock only,Deadlock and blocking,No issue,None of the above,C
