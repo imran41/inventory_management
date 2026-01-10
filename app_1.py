@@ -169,7 +169,18 @@ def show_question(row, idx):
                 st.session_state.flagged.add(idx)
             st.rerun()
     
-    st.markdown(f"<div class='question-card'><h4>{row['question']}</h4></div>", unsafe_allow_html=True)
+    #st.markdown(f"<div class='question-card'><h4>{row['question']}</h4></div>", unsafe_allow_html=True)
+
+    # Split the string by ". " but only when followed by a number (to avoid breaking sentences)
+    parts = [part.strip() for part in row['question'].split('. ') if part.strip()]
+
+    # Re-add the period to all except the last, and join with HTML line breaks
+    formatted_questions = '<br>'.join([f"{part}." for part in parts[:-1]] + [parts[-1]] if parts else [''])
+
+    st.markdown(
+        f"<div class='question-card'><h4>{formatted_questions}</h4></div>",
+        unsafe_allow_html=True
+    )
     
     # Dynamically detect available options
     options = {}
