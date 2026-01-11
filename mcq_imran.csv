@@ -1,5 +1,5 @@
 Which of the following is NOT a component of DBMS?, Database Engine, Query Processor, File Manager, More than one of the above, None of the above, E																
-In the 3-level architecture of DBMS, which level provides the physical storage details?, External Level, Conceptual Level, Internal Level, More than one of the above, None of the above, C																
+In the 3-level architecture of DBMS. which level provides the physical storage details?, External Level, Conceptual Level, Internal Level, More than one of the above, None of the above, C																
 The mapping between conceptual schema and internal schema is called:, External Mapping, Physical Mapping, Logical Mapping, More than one of the above, None of the above, B																
 Which of the following ensures Logical Data Independence?, External ↔ Conceptual Mapping, Conceptual ↔ Internal Mapping, Internal Storage Organization, More than one of the above, None of the above, A																
 In DBMS, the Query Processor is responsible for:, Storing data on disk, Managing data dictionary, Handling transaction concurrency, More than one of the above, None of the above, E																
@@ -39,3 +39,4 @@ Cardinality in ER model refers to, Number of attributes in entity, Maximum and m
 During conversion of ER diagram to tables, a multivalued attribute is handled by, Keeping it in the same table, Creating a new table for it, Ignoring it, More than one of the above, None of the above, B																
 If an ER diagram has a weak entity, then in relational schema, Weak entity becomes a normal table, Weak entity table must include primary key of strong entity as foreign key, Weak entity does not need a key, More than one of the above, None of the above, B																
 A database schema is best described as, A collection of programs, Logical structure of the database, Physical location of data, More than one of the above, None of the above, B																
+
