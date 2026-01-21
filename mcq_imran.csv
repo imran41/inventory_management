@@ -1,0 +1,684 @@
+question,option1,option2,option3,option4,option5,answer
+A user clicks an icon to open a file. Which OS component first interacts with the user?,Kernel,Hardware,Shell,More Than One of The Above,None of the above,C
+A system where multiple users log in remotely to the same server at the same time is an example of,SUI,MUI,CLI,More Than One of The Above,None of the above,B
+Which statement best explains why OS is called a bridge?,It connects software to software,It connects user to hardware,It connects CPU to memory,More Than One of The Above,None of the above,B
+"If hardware directly communicates with OS, which part is involved?",Shell,Interface,Kernel,More Than One of The Above,None of the above,C
+A student types commands to create folders instead of clicking icons. Which interface is used?,GUI,MUI,SUI,CUI/CLI,None of the above,D
+"An OS that supports windows, icons, menus, and mouse pointer must follow which rule?",MULTI,ICON,WIMP,More Than One of The Above,None of the above,C
+Which OS component converts user actions into instructions for kernel?,Hardware,Shell,CPU,More Than One of The Above,None of the above,B
+A computer lab uses one powerful server and many client machines. Which OS type is required?,Single User OS,Batch OS,Multi User OS,More Than One of The Above,None of the above,C
+"Which layer of OS directly controls CPU, memory, and devices?",Shell,Interface,User program,Kernel,None of the above,D
+"If kernel fails, what will be the most direct impact?",User cannot click icons,Applications stop responding,Hardware becomes inaccessible,More Than One of The Above,None of the above,C
+Which example correctly matches OS type and interface?,Linux – SUI,Android – MUI,Unix – MUI,More Than One of The Above,None of the above,C
+Typing `dir` to list files in DOS represents which OS feature?,GUI based interaction,Command based interaction,Multi user processing,More Than One of The Above,None of the above,B
+Why is shell called the outer layer of OS?,It stores data,It directly touches hardware,It interacts with user,More Than One of The Above,None of the above,C
+Which situation BEST describes SUI?,Multiple users accessing server,One user using mobile phone,Many users sharing CPU remotely,More Than One of The Above,None of the above,B
+An OS that provides environment for running applications mainly performs,Resource management,File storage only,Networking only,More Than One of The Above,None of the above,A
+Which OS interface is most suitable for beginners?,CLI,CUI,GUI,More Than One of The Above,None of the above,C
+"In OS structure, what is the correct flow of communication?",User → Kernel → Shell → Hardware,User → Shell → Kernel → Hardware,User → Hardware → Kernel → Shell,More Than One of The Above,None of the above,B
+"If user clicks an icon and nothing happens, which layer should be checked first?",Hardware,Kernel,Shell,More Than One of The Above,None of the above,C
+Why are Linux and Unix classified as MUI?,They are mobile OS,They support GUI,They allow multiple users simultaneously,More Than One of The Above,None of the above,C
+Which pair is INCORRECT?,Shell – Outer layer,Kernel – Core of OS,GUI – Command based,More Than One of The Above,None of the above,C
+"An OS creates, deletes, and schedules processes. Which OS function is responsible?",File Management,Memory Management,Process Management,More Than One of The Above,None of the above,C
+Multiple programs are in memory and OS decides CPU time for each. This task is done by,Dispatcher,Loader,Scheduler,More Than One of The Above,None of the above,C
+A process enters memory and gets the first available free block. Which allocation strategy is used?,Best Fit,Worst Fit,Next Fit,First Fit,None of the above,D
+A process is allocated memory just after the last allocated block. Which technique is applied?,First Fit,Best Fit,Next Fit,More Than One of The Above,None of the above,C
+An OS assigns the smallest suitable block to reduce memory wastage. Identify the method,Worst Fit,First Fit,Next Fit,Best Fit,None of the above,D
+Allocating the largest available memory block to a process leads to maximum wastage. This is,Worst Fit,Best Fit,First Fit,More Than One of The Above,None of the above,A
+"When a process enters memory and OS assigns it a memory block, this is called",Process Scheduling,Memory Management,File Management,More Than One of The Above,None of the above,B
+"A user saves a file named ""Report.pdf"". Which part of filename is system-defined?",Report,.pdf,None,More Than One of The Above,None of the above,B
+"Which OS function handles creation, deletion, and retrieval of files?",Process Management,File Management,Disk Management,More Than One of The Above,None of the above,B
+An OS uses NTFS and FAT to organize stored data. These are examples of,Access methods,File systems,Memory blocks,More Than One of The Above,None of the above,B
+Protecting system from unauthorized access is the responsibility of,Process Management,File Management,Security Management,More Than One of The Above,None of the above,C
+Which password is considered most secure by OS standards?,Only alphabets,Only numbers,Alphabets + numbers,Alphabets + numbers + special characters,None of the above,D
+"Managing keyboard, mouse, printer, and monitor is done by",Process Management,File Management,I/O Management,More Than One of The Above,None of the above,C
+"If OS detects and handles system faults to avoid crashes, which function is involved?",Disk Management,Error Management,Process Management,More Than One of The Above,None of the above,B
+An OS coordinates all its modules to work together. This is known as,Integrated Management,Process Management,I/O Management,More Than One of The Above,None of the above,A
+Receiving and executing user commands is handled by which OS function?,Command Management,Process Management,Security Management,More Than One of The Above,None of the above,A
+Which OS function is responsible for disk space allocation and scheduling?,File Management,Disk Management,I/O Management,More Than One of The Above,None of the above,B
+Which memory allocation technique is an extension of First Fit?,Worst Fit,Best Fit,Next Fit,More Than One of The Above,None of the above,C
+A system experiences high memory wastage due to poor allocation. Which technique is MOST likely used?,Best Fit,First Fit,Next Fit,Worst Fit,None of the above,D
+Which combination of OS functions ensures smooth execution of programs?,Process + Memory Management,File + Disk Management,I/O + Security Management,All of the above,None of the above,D
+Which OS functions are directly involved when a new program starts execution?,Process creation,Memory allocation,CPU scheduling,All of the above,None of the above,D
+Which OS modules help in protecting data and system integrity?,Security management,File permissions,Authentication,More than one of the above,None of the above,D
+Which tasks are part of File Management in OS?,File creation,File deletion,File retrieval,More than one of the above,None of the above,D
+"When a process is loaded into memory, which OS activities take place?",Process management,Memory allocation,CPU scheduling,More than one of the above,None of the above,D
+Which components are involved when multiple processes share CPU time?,Scheduler,Process management,Context switching,More than one of the above,None of the above,D
+Which of the following are valid memory allocation strategies?,First Fit,Best Fit,Worst Fit,More than one of the above,None of the above,D
+Which OS functions are required to run applications smoothly?,Process management,Memory management,I/O management,More than one of the above,None of the above,D
+Which OS responsibilities help in system stability?,Error management,Security management,Resource management,More than one of the above,None of the above,D
+Which OS functions manage hardware resources indirectly?,Process management,I/O management,Memory management,More than one of the above,None of the above,D
+Which OS modules work together during file access from disk?,File management,Disk management,I/O management,More than one of the above,None of the above,D
+Which of the following is NOT a function of Operating System?,Web browsing,Email sending,Game playing,More Than One of The Above,None of the above,E
+Which memory allocation technique always allocates exact size block without wastage?,First Fit,Best Fit,Worst Fit,More Than One of The Above,None of the above,E
+Which OS function directly writes application code?,Process management,File management,Memory management,More Than One of The Above,None of the above,E
+Which file system is exclusively used for RAM management?,FAT,NTFS,ZFS,More Than One of The Above,None of the above,E
+Which OS function converts high-level language into machine code?,Process management,File management,Memory management,More Than One of The Above,None of the above,E
+Integrated Management in OS ensures that,Different data disturb each other,Data works independently,OS modules work in coordination,More Than One of The Above,None of the above,C
+Which OS function executes user-given commands?,Process Management,Command Management,Disk Management,More Than One of The Above,None of the above,B
+Managing hard disk and secondary storage is responsibility of,File Management,Disk Management,Memory Management,More Than One of The Above,None of the above,B
+Printer out of paper is handled by which OS function?,Process Management,Error Management,Disk Management,More Than One of The Above,None of the above,B
+Batch Processing OS is also known as,Online system,Interactive system,Offline processing system,More Than One of The Above,None of the above,C
+"In Batch Processing OS, jobs are processed",Parallel,Randomly,Sequentially,More Than One of The Above,None of the above,C
+Batch Processing OS is mostly used in,Personal computers,Mainframe computers,Mobile phones,More Than One of The Above,None of the above,B
+"In Batch OS, user interaction with system is",Continuous,Direct,Limited,Absent,None of the above,D
+Which OS technique handles multiple tasks at the same time?,Batch processing,Multitasking,Multiprogramming,More Than One of The Above,None of the above,B
+Time slice concept is used in,Batch OS,Multitasking OS,Real-time OS,More Than One of The Above,None of the above,B
+"In multitasking OS, CPU time is",Fixed to one task,Divided among tasks,Given randomly,More Than One of The Above,None of the above,B
+Which OS allows listening to music while browsing internet?,Batch OS,Single user OS,Multitasking OS,More Than One of The Above,None of the above,C
+Multiprogramming OS loads,One program in memory,Multiple programs in memory,One task in CPU only,More Than One of The Above,None of the above,B
+"In multiprogramming, how many programs use CPU at a time?",Zero,One,All,More Than One of The Above,None of the above,B
+Main objective of multiprogramming is to,Increase memory usage,Minimize CPU idle time,Improve security,More Than One of The Above,None of the above,B
+Multiprogramming is the base of,Batch processing,Multitasking,Error management,More Than One of The Above,None of the above,B
+Linux OS is an example of,Batch OS,Multiprogramming OS,Single task OS,More Than One of The Above,None of the above,B
+Which OS technique groups similar jobs together?,Multitasking,Multiprogramming,Batch processing,More Than One of The Above,None of the above,C
+Error Management in OS helps to,Prevent system crash,Delete errors,Increase speed,More Than One of The Above,None of the above,A
+Which combination is correct?,Batch OS – Interactive,Multitasking – Time slice,Multiprogramming – Multiple CPUs,More Than One of The Above,None of the above,B
+A system with 4 CPUs executes parts of the same process simultaneously to reduce execution time. Which OS technique is used?,Multitasking,Multiprogramming,Multiprocessing,More Than One of The Above,None of the above,C
+"In a multiprocessor system, all CPUs have equal access to memory and tasks. This is called",Asymmetric multiprocessing,Hierarchical multiprocessing,Symmetric multiprocessing,More Than One of The Above,None of the above,C
+"In a system where one CPU acts as master and others as slaves, the architecture is",Distributed OS,Symmetric multiprocessing,Asymmetric multiprocessing,More Than One of The Above,None of the above,C
+A flight control system must respond within strict deadlines; missing a deadline may cause system failure. Which OS is suitable?,Batch OS,Soft RTOS,Hard RTOS,More Than One of The Above,None of the above,C
+Which feature best defines deterministic behavior in an OS?,High throughput,Predictable execution time,Multiple CPUs,More Than One of The Above,None of the above,B
+A medical heart monitor fails if response is delayed even slightly. Which RTOS type is required?,Soft RTOS,Batch OS,Hard RTOS,More Than One of The Above,None of the above,C
+In which RTOS type can deadline miss be tolerated with only performance degradation?,Hard RTOS,Soft RTOS,Time sharing OS,More Than One of The Above,None of the above,B
+Streaming video platforms allow minor delays without system failure. Which OS category fits best?,Hard RTOS,Soft RTOS,Batch OS,More Than One of The Above,None of the above,B
+Which OS uses a single CPU shared among processes using small time slices?,Multiprocessing OS,Multitasking OS,Time sharing OS,More Than One of The Above,None of the above,C
+"In time sharing OS, when a process’s time slice ends, it moves to which state?",Running,Waiting,Ready,More Than One of The Above,None of the above,C
+Which OS gives the illusion that all programs are running simultaneously on a single CPU?,Batch OS,Multiprogramming OS,Time sharing OS,More Than One of The Above,None of the above,C
+A network of independent computers appears to users as one single system. Which OS is this?,Multiprocessing OS,Distributed OS,Time sharing OS,More Than One of The Above,None of the above,B
+Which OS technique enables resource sharing across machines connected via network?,Batch OS,Time sharing OS,Distributed OS,More Than One of The Above,None of the above,C
+Facebook and Google backend systems best represent which OS concept?,Batch OS,Distributed OS,Multiprogramming OS,More Than One of The Above,None of the above,B
+Which OS technique improves performance by executing tasks truly in parallel?,Multitasking,Multiprogramming,Multiprocessing,More Than One of The Above,None of the above,C
+Which OS uses CPU idle time minimization as a primary goal?,Multitasking OS,Multiprogramming OS,Time sharing OS,More Than One of The Above,None of the above,B
+A system loads many programs in memory but CPU executes only one at a time. Which technique is used?,Multitasking,Multiprogramming,Multiprocessing,More Than One of The Above,None of the above,B
+Which combination is correct for Hard RTOS?,"Flexible deadline, delay allowed","Strict deadline, guaranteed response",Non-deterministic behavior,More Than One of The Above,None of the above,B
+Which feature distinguishes Soft RTOS from Hard RTOS?,Deadline miss tolerance,System failure on delay,Guaranteed response,More Than One of The Above,None of the above,A
+Which OS type is MOST suitable for nuclear power plant control?,Time sharing OS,Batch OS,Soft RTOS,Hard RTOS,None of the above,D
+"In asymmetric multiprocessing, task allocation decisions are made by",All CPUs equally,Only secondary CPUs,Only primary CPU,More Than One of The Above,None of the above,C
+Which OS technique divides a single job into parts processed by multiple CPUs?,Multitasking,Multiprogramming,Multiprocessing,More Than One of The Above,None of the above,C
+Which OS gives better fault tolerance using multiple machines?,Batch OS,Distributed OS,Multitasking OS,More Than One of The Above,None of the above,B
+Which OS ensures fairness by giving each process equal CPU time?,Batch OS,Time sharing OS,Multiprocessing OS,More Than One of The Above,None of the above,B
+Which OS is NOT suitable for interactive systems?,Batch OS,Time sharing OS,Multitasking OS,More Than One of The Above,None of the above,A
+Which OS technique mainly improves system throughput rather than response time?,Multitasking,Multiprogramming,Time sharing,More Than One of The Above,None of the above,B
+Which OS concept allows accessing resources of another machine transparently?,Multiprocessing,Distributed OS,Time sharing,More Than One of The Above,None of the above,B
+Which OS type requires strict predictability in task execution time?,Soft RTOS,Hard RTOS,Time sharing OS,More Than One of The Above,None of the above,B
+Which OS is best for real parallel execution of CPU-intensive tasks?,Multitasking OS,Multiprogramming OS,Multiprocessing OS,More Than One of The Above,None of the above,C
+Which OS type uses quantum time to switch between processes?,Batch OS,Multiprocessing OS,Time sharing OS,More Than One of The Above,None of the above,C
+What does the 'kernel' in an operating system do?,Manages hardware and software resources,Provides a user interface,Runs applications,More Than One of The Above,None of The Above,A
+What does the term 'multitasking' refer to in an operating system?,Running multiple applications on a single machine,Running one application at a time,The ability to use multiple CPUs,More Than One of The Above,None of The Above,A
+Which of the following is a main function of the operating system's scheduler?,Manage memory allocation,Decide which process gets CPU time,Handle input/output devices,More Than One of The Above,None of The Above,B
+Which of the following is an example of a multi-user operating system?,Unix,Suse,OpenVMS,More Than One of The Above,None of The Above,D
+Which is the primary purpose of a 'shell' in an operating system?,To provide a user interface for interacting with the OS,To manage processes,To allocate memory,More Than One of The Above,None of The Above,A
+Which of the following is NOT a type of scheduling algorithm?,Round Robin,Shortest Job First,File Allocation Table,More Than One of The Above,None of The Above,C
+Which of the following operating system components manages the interactions between the CPU and other hardware components?,User Interface,Shell,Kernel,More Than One of The Above,None of The Above,C
+What is the main role of the 'bootloader' in an operating system?,It loads the operating system into memory when the computer starts,It manages files and directories,It schedules tasks for the CPU,More Than One of The Above,None of The Above,A
+Which is responsible for handling input and output devices?,File System,Device Driver,Process Management,More Than One of The Above,None of The Above,B
+Which of the following is NOT a type of operating system used in modern computing environments?,"Single-User, Single-Tasking OS","Multi-User, Multitasking OS",Cloud-Based OS,More Than One of The Above,None of The Above,A
+Which of the following is NOT a function of an operating system?,Process Management,Memory Management,File Management,More Than One of The Above,None of The Above,E
+"In an operating system, what is a ""deadlock""?",When a process cannot acquire the resources it needs,When a process runs without interruption,When the system becomes unresponsive,More Than One of The Above,None of The Above,A
+"What is the role of the ""shell"" in an operating system?",It manages memory allocation,It controls hardware devices,It serves as an interface between the user and the operating system,More Than One of The Above,None of The Above,C
+Which of the following operating systems is an example of one that uses a GUI?,Windows XP,UNIX,FreeBSD,More Than One of The Above,None of The Above,D
+What is the main advantage of a GUI over a CLI?,It is faster to use,It requires less memory,It is more user-friendly and easier to learn,More Than One of The Above,None of The Above,C
+"What is ""WIMP"" in the context of GUI?","Windows, Input, Memory, Pointer","Windows, Interface, Mouse, Pointer","Windows, Inputs, Menus, Processes",More Than One of The Above,None of The Above,E
+Which file system Windows 10 uses?,FAT 16,FAT 32,NTFS,More Than One of The Above,None of The Above,C
+If three threads are trying to share a single object at the same time which condition will arise?,Time Lapse,Critical Situation,Race Condition,More Than One of The Above,None of The Above,C
+FCFS scheduling follows which principle?,Last come first serve,Shortest job first,First come first serve,More Than One of The Above,None of the above,C
+Main disadvantage of FCFS is,Starvation,Convoy effect,Deadlock,More Than One of The Above,None of the above,B
+FCFS is best suitable for,Time sharing systems,Real time systems,Batch systems,More Than One of The Above,None of the above,C
+SJF selects process based on,Arrival time,Priority,Burst time,More Than One of The Above,None of the above,C
+SJF gives minimum,Throughput,Turnaround time,Average waiting time,More Than One of The Above,None of the above,C
+Starvation is a major problem in,FCFS,SJF,Round Robin,More Than One of The Above,None of the above,B
+Preemptive version of SJF is called,FCFS,SJN,SRTF,More Than One of The Above,None of the above,C
+"In SJF, burst time must be",Guessed,Randomly assigned,Known in advance,More Than One of The Above,None of the above,C
+Round Robin uses,Priority,Time slice,Burst time,More Than One of The Above,None of the above,B
+Round Robin is best suited for,Batch systems,Time sharing systems,Real time systems,More Than One of The Above,None of the above,B
+"If time quantum is too large, RR behaves like",SJF,Priority,FCFS,More Than One of The Above,None of the above,C
+Too small time quantum in RR causes,Starvation,High context switching,Deadlock,More Than One of The Above,None of the above,B
+Priority scheduling executes process with,Lowest burst time,Highest priority,Earliest arrival,More Than One of The Above,None of the above,B
+"If two processes have same priority, Priority scheduling works like",SJF,RR,FCFS,More Than One of The Above,None of the above,C
+Major problem in Priority scheduling is,Deadlock,Starvation,Convoy effect,More Than One of The Above,None of the above,B
+Aging is used to solve,Deadlock,Starvation,Livelock,More Than One of The Above,None of the above,B
+MQS stands for,Multi Queue System,Multiple Queue Scheduling,Multilevel Queue Scheduling,More Than One of The Above,None of the above,C
+"In MQS, processes are divided based on",Priority only,Burst time only,Type / Priority / BT,More Than One of The Above,None of the above,C
+Each queue in MQS uses,Same algorithm,Different algorithm,RR only,More Than One of The Above,None of the above,B
+Main drawback of MQS is,Easy implementation,Starvation of lower queues,High throughput,More Than One of The Above,None of the above,B
+Processes in MQS can move between queues,Always,Never,Sometimes,More Than One of The Above,None of the above,B
+Multiprocessing means,Multiple programs,Multiple users,Multiple CPUs,More Than One of The Above,None of the above,C
+Multiprocessing improves,Waiting time only,Security only,Performance & speed,More Than One of The Above,None of the above,C
+SMP means,Single memory processing,Symmetric multiprocessing,Simple multitasking,More Than One of The Above,None of the above,B
+"In SMP, CPUs have",Unequal access,Equal access,Master-slave relation,More Than One of The Above,None of the above,B
+AMP has,Equal CPUs,One master CPU,No control CPU,More Than One of The Above,None of the above,B
+RTOS is used for,Time critical tasks,Batch jobs,File processing,More Than One of The Above,None of the above,A
+RTOS shows,Random behaviour,Non-predictable behaviour,Deterministic behaviour,More Than One of The Above,None of the above,C
+Hard RTOS deadline miss causes,Delay only,System failure,Performance loss,More Than One of The Above,None of the above,B
+Soft RTOS deadline miss causes,System failure,Data loss,Performance degradation,More Than One of The Above,None of the above,C
+Medical devices use,Soft RTOS,Hard RTOS,Batch OS,More Than One of The Above,None of the above,B
+Streaming systems use,Hard RTOS,Soft RTOS,Batch OS,More Than One of The Above,None of the above,B
+Time Sharing OS shares,Multiple CPUs,Single CPU,Multiple disks,More Than One of The Above,None of the above,B
+Time slice is also called,Burst time,Quantum time,Waiting time,More Than One of The Above,None of the above,B
+"After time slice expiry, process goes to",Running state,Blocked state,Ready state,More Than One of The Above,None of the above,C
+Time sharing gives illusion of,Single task,Parallel execution,Serial execution,More Than One of The Above,None of the above,B
+Distributed OS connects,Multiple CPUs only,Multiple disks only,Multiple independent computers,More Than One of The Above,None of the above,C
+"In Distributed OS, computers work as",Separate systems,One single system,Offline systems,More Than One of The Above,None of the above,B
+Facebook and Google are examples of,Batch OS,Time sharing OS,Distributed OS,More Than One of The Above,None of the above,C
+Which scheduling avoids starvation completely?,FCFS,SJF,Priority,Round Robin,None of the above,D
+Which scheduling algorithm is preemptive by nature?,FCFS,SJF,Round Robin,More Than One of The Above,None of the above,C
+Which algorithm is simplest to implement?,SJF,Priority,Round Robin,FCFS,None of the above,D
+Which scheduling is efficient for real time systems?,Round Robin,FCFS,Priority,More Than One of The Above,None of the above,C
+"MQS uses fixed priority queues, so lower queues may suffer from",Deadlock,Livelock,Starvation,More Than One of The Above,None of the above,C
+Which OS technique reduces CPU idle time?,Batch OS,Time sharing OS,Multiprogramming,More Than One of The Above,None of the above,C
+Which algorithm is fair to all processes?,SJF,Priority,Round Robin,More Than One of The Above,None of the above,C
+Which scheduling algorithm depends heavily on burst time accuracy?,FCFS,SJF,Round Robin,More Than One of The Above,None of the above,B
+"In Priority Scheduling, CPU is allocated based on",Burst time,Arrival time,Priority number,More Than One of The Above,None of the above,C
+"If two processes have same priority, Priority Scheduling behaves like",SJF,Round Robin,FCFS,More Than One of The Above,None of the above,C
+Priority Scheduling is most suitable for,Time sharing systems,Batch systems,Real-time systems,More Than One of The Above,None of the above,C
+Which type of Priority Scheduling allows CPU preemption?,Non-preemptive only,Preemptive only,Both types,More Than One of The Above,None of the above,C
+Main drawback of Priority Scheduling is,High overhead,Deadlock,Starvation,More Than One of The Above,None of the above,C
+Which technique is used to reduce starvation in Priority Scheduling?,Round Robin,Aging,Time slicing,More Than One of The Above,None of the above,B
+MQS stands for,Multi Queue Scheduling,Multilevel Queue Scheduling,Multiple Quantum Scheduling,More Than One of The Above,None of the above,B
+"In MQS, processes are divided into queues based on",Priority / burst time,Random selection,User id,More Than One of The Above,None of the above,A
+"In MQS, can a process move between queues?",Yes,No,Sometimes,More Than One of The Above,None of the above,B
+Which scheduling algorithm may cause starvation of lower queues?,Round Robin,HRRN,MQS,More Than One of The Above,None of the above,C
+MLFQ is an advanced version of,Round Robin,MQS,FCFS,More Than One of The Above,None of the above,B
+"In MLFQ, process priority is",Fixed,Random,Dynamic,More Than One of The Above,None of the above,C
+CPU-bound processes in MLFQ are moved to,Higher priority queue,Same queue,Lower priority queue,More Than One of The Above,None of the above,C
+I/O-bound processes in MLFQ are moved to,Lower priority,Higher priority,Blocked queue,More Than One of The Above,None of the above,B
+Which scheduling algorithm guarantees no starvation?,SJF,MQS,MLFQ,More Than One of The Above,None of the above,C
+HRRN stands for,High Response Ratio Next,Highest Remaining Run Next,High Resource Ratio Node,More Than One of The Above,None of the above,A
+HRRN is which type of scheduling?,Preemptive,Non-preemptive,Both,More Than One of The Above,None of the above,B
+Response Ratio in HRRN depends on,Burst time only,Waiting time only,Waiting time and burst time,More Than One of The Above,None of the above,C
+FSS schedules CPU based on,Processes,Threads,Users,More Than One of The Above,None of the above,C
+Which scheduling is best for multi-user systems?,Round Robin,HRRN,FSS,More Than One of The Above,None of the above,C
+Deadlock occurs when processes,Hold all resources,Run in parallel,Wait indefinitely for each other,More Than One of The Above,None of the above,C
+Which of the following is NOT a Coffman condition?,Mutual exclusion,Hold and wait,Preemption allowed,More Than One of The Above,None of the above,C
+Mutual exclusion means,Resource can be shared,Resource cannot be shared,Resource is virtual,More Than One of The Above,None of the above,B
+"In hold and wait condition, a process",Holds no resource,Holds all resources,Holds at least one and waits for others,More Than One of The Above,None of the above,C
+No preemption means,Resource can be forcefully taken,Resource is released automatically,Resource cannot be forcefully taken,More Than One of The Above,None of the above,C
+Circular wait condition represents,Linear chain,Single process waiting,Circular chain of processes,More Than One of The Above,None of the above,C
+Deadlock prevention works by,Detecting deadlock,Recovering deadlock,Breaking one Coffman condition,More Than One of The Above,None of the above,C
+Which algorithm is used in deadlock avoidance?,Round Robin,FCFS,Banker’s Algorithm,More Than One of The Above,None of the above,C
+Deadlock avoidance checks whether system is in,Safe state,Unsafe state,Ready state,Both safe and unsafe,None of the above,D
+Deadlock detection is done using,Priority algorithm,Cycle detection algorithm,FCFS,More Than One of The Above,None of the above,B
+Deadlock recovery can be done by,Process scheduling,Killing processes,Resource preemption,Both B and C,None of the above,D
+Deadlock ignorance is also known as,Banker’s algorithm,Ostrich algorithm,Aging algorithm,More Than One of The Above,None of the above,B
+Deadlock ignorance is mostly used in,Real time systems,Embedded systems,Windows and Linux,More Than One of The Above,None of the above,C
+Starvation occurs when,System stops,System runs but some processes wait forever,Resources are idle,More Than One of The Above,None of the above,B
+Starvation is solved using,Banker’s algorithm,Aging,Deadlock detection,More Than One of The Above,None of the above,B
+PCB stands for,Process Code Block,Program Control Block,Process Control Block,More Than One of The Above,None of the above,C
+Which of the following is NOT stored in PCB?,Process ID,Program Counter,CPU Registers,User password,None of the above,D
+Program counter in PCB stores,Current instruction,Previous instruction,Next instruction address,More Than One of The Above,None of the above,C
+Which state represents a process waiting for CPU?,New,Running,Ready,More Than One of The Above,None of the above,C
+A process waiting for I/O operation is in,New state,Ready state,Running state,Waiting/Blocked state,None of the above,D
+Which of the following conditions is NOT necessary for a deadlock to occur?,Mutual Exclusion,Circular Wait,Preemption,More Than One of The Above,None of The Above,C
+A deadlock occurs when a process is waiting for a resource that is-,Used by another process,Released by another process,Not available in the system,More Than One of The Above,None of The Above,D
+"In a system with multiple resources of the same type, which algorithm can be used to detect deadlocks?",Banker's Algorithm,Resource Allocation Graph (RAG),Round Robin Scheduling,More Than One of The Above,None of The Above,A
+Which technique prevents deadlock by ensuring a process does not hold one resource while waiting for another?,No Preemption,Hold and Wait,Circular Wait,More Than One of The Above,None of The Above,B
+Deadlock can be described as a situation where a set of processes are-,Waiting for an event that will never occur,Utilizing CPU in an infinite loop,Sharing resources efficiently,More Than One of The Above,None of The Above,A
+Mutual exclusion in deadlock refers to-,A process holding multiple resources,A process waiting for all resources,Only one process using a resource at a time,More Than One of The Above,None of The Above,C
+Which is a drastic but guaranteed method for deadlock recovery?,Killing all processes,Preempting resources,Increasing system memory,More Than One of The Above,None of The Above,A
+What is the main difference between starvation and deadlock?,Starvation due to priority scheduling while deadlock due to circular wait,Deadlock is temporary while starvation is permanent,Starvation is a result of deadlock,More Than One of The Above,None of The Above,A
+How does the Banker's Algorithm help in deadlock avoidance?,By granting resources after safe state check,By preventing transactions,By rejecting all requests,More Than One of The Above,None of The Above,A
+Which method can be used to prevent deadlocks?,Allowing circular wait,Releasing resources only after completion,Imposing resource allocation ordering,More Than One of The Above,None of The Above,C
+"If a system is in a deadlock state, which is a possible solution?",Restart entire system,Ignore the problem,Kill one or more deadlocked processes,More Than One of The Above,None of The Above,C
+Which of the following is NOT a deadlock handling technique?,Deadlock Prevention,Deadlock Detection,Deadlock Multiplication,More Than One of The Above,None of The Above,C
+What is the role of the Available vector in Banker's Algorithm?,Tracks allocated resources,Stores maximum demand,Indicates free resources,More Than One of The Above,None of The Above,C
+What is the main disadvantage of the Banker's Algorithm?,Requires prior knowledge of max needs,Cannot detect deadlocks,Increases CPU time,More Than One of The Above,None of The Above,A
+Which methods can be used to handle deadlocks?,Prevention,Avoidance,Detection and Recovery,More Than One of The Above,None of The Above,D
+Circular wait condition can be prevented by-,Allowing multiple resource holding,Assigning order to resources,Using Banker's Algorithm,More Than One of The Above,None of The Above,B
+Which statement about deadlock is FALSE?,Recovery always possible without killing processes,Deadlock cannot be fully avoided,Deadlock detected using wait-for graph,More Than One of The Above,None of The Above,A
+A system is in a safe state if-,There exists at least one safe sequence,No deadlock has occurred yet,No circular waiting exists,More Than One of The Above,None of The Above,A
+Which is NOT a valid deadlock recovery technique?,Killing processes,Resource preemption,Ignoring deadlock,More Than One of The Above,None of The Above,C
+C++ was started in which year?,1975,1979-80,1983,1985,None of the above,B
+C++ was renamed as C++ in which year?,1979,1980,1983,1985,None of the above,C
+C++ was first known as,C language,C with Classes,CPP,Object C,None of the above,B
+C++ was first appeared in which year?,1980,1983,1985,1990,None of the above,C
+C++ was developed at,Microsoft,IBM,AT&T Bell Labs,Oracle,None of the above,C
+Who developed C++?,Dennis Ritchie,James Gosling,Bjarne Stroustrup,Guidovan Rossum,None of the above,C
+Which of the following is NOT a pillar of OOPS?,Inheritance,Polymorphism,Compilation,Encapsulation,None of the above,C
+Which concept allows code reusability?,Encapsulation,Abstraction,Inheritance,Dynamic Binding,None of the above,C
+A class in C++ is,User defined datatype,Built-in datatype,Primitive datatype,System datatype,None of the above,A
+Class is also known as,Real object,Instance,Blueprint of program,Physical entity,None of the above,C
+Which of the following is default access modifier in class?,public,protected,private,friend,None of the above,C
+Private members of a class can be accessed,Anywhere,In child class only,Only inside same class,Outside using object,None of the above,C
+Which access modifier allows access in child class?,private,public,protected,friend,None of the above,C
+Which operator is used to access class members using object?,::,->,.,*,None of the above,C
+Object is also called as,Class template,Class function,Class type variable,Constructor,None of the above,C
+Which statement is correct about object?,Object is blueprint,Object is instance of class,Object is datatype,Object is function,None of the above,B
+Encapsulation means,Hiding data only,Wrapping data and functions,Showing data,Hiding logic only,None of the above,B
+Data Encapsulation is also called,Data Abstraction,Data Hiding,Data Binding,Data Sharing,None of the above,B
+Abstraction focuses on,How data is hidden,What data is shown,How program runs,How memory is allocated,None of the above,B
+Which concept hides internal implementation from user?,Encapsulation,Abstraction,Inheritance,Polymorphism,None of the above,A
+Which OOPS concept binds data and methods together?,Inheritance,Abstraction,Encapsulation,Polymorphism,None of the above,C
+Inheritance allows,Multiple objects,Multiple classes,Code reuse,Data hiding,None of the above,C
+Base class is also called,Child class,Derived class,Super class,Object class,None of the above,C
+Derived class is also known as,Parent class,Base class,Child class,Abstract class,None of the above,C
+Which inheritance has one base and one derived class?,Multiple,Hierarchical,Single level,Hybrid,None of the above,C
+In multilevel inheritance,One base one derived only,One base multiple derived,Derived class becomes base class,Multiple base classes only,None of the above,C
+Which inheritance has more than one base class?,Single,Multilevel,Multiple,Hierarchical,None of the above,C
+Hierarchical inheritance contains,Many base one derived,One base many derived,Many base many derived,Single inheritance,None of the above,B
+Hybrid inheritance is,Single type inheritance,Multiple inheritance only,Combination of inheritance types,Multilevel only,None of the above,C
+Which inheritance is most complex?,Single,Multiple,Hierarchical,Hybrid,None of the above,D
+C++ was started in which period?,1975–76,1979–80,1981–82,1983–84,None of the above,B
+C++ was renamed in the year,1980,1981,1983,1985,None of the above,C
+C++ was initially called,C language,C with Classes,Object C,CPP only,None of the above,B
+C++ first appeared in which year?,1983,1984,1985,1986,None of the above,C
+C++ was developed at,IBM,Microsoft,AT&T Bell Labs,Oracle,None of the above,C
+Who developed C++?,Dennis Ritchie,James Gosling,Bjarne Stroustrup,Guido van Rossum,None of the above,C
+How many main pillars of OOPS are defined in C++?,2,3,4,5,None of the above,C
+Which of the following is NOT a pillar of OOPS?,Inheritance,Polymorphism,Data Abstraction,Compilation,None of the above,D
+OOPS stands for,Object Oriented Programming Structure,Object Oriented Program Syntax,Open Object Programming System,None,None of the above,A
+A class in C++ is,User defined datatype,Built-in datatype,Primitive datatype,Abstract datatype only,None of the above,A
+Which statement about class is correct?,Class is physical entity,Class is blueprint,Class is variable,Class is function,None of the above,B
+Which access modifier is default in C++ class?,public,protected,private,friend,None of the above,C
+Private members of a class can be accessed,Anywhere,In child class,Only inside same class,Using object,None of the above,C
+Protected members are accessible in,Same class only,Child class only,Same & child class,Anywhere,None of the above,C
+Which operator is used to access class members?,::,->,.,*,None of the above,C
+Object is,Class blueprint,Instance of class,Data type only,Function,None of the above,B
+Object is also known as,Class variable,Class type variable,Static variable,Global variable,None of the above,B
+Which concept is known as Data Hiding?,Abstraction,Encapsulation,Inheritance,Polymorphism,None of the above,B
+Encapsulation means,Hiding logic only,Wrapping data & functions,Showing data,Hiding variables only,None of the above,B
+Abstraction focuses on,How data is stored,What data is shown,How memory is allocated,How program runs,None of the above,B
+Which OOPS concept hides implementation details?,Inheritance,Encapsulation,Abstraction,Polymorphism,None of the above,C
+Inheritance allows,Code duplication,Code reuse,Data hiding,Binding,None of the above,B
+Base class is also called,Child class,Derived class,Super class,Object class,None of the above,C
+Derived class is also known as,Parent class,Base class,Child class,Main class,None of the above,C
+Single level inheritance contains,One base one derived,One base many derived,Many base one derived,Many base many derived,None of the above,A
+In multilevel inheritance,One base one derived only,Derived becomes base for another,Multiple base classes,Hybrid structure,None of the above,B
+Multiple inheritance means,One base many derived,Many base one derived,One base one derived,Hybrid only,None of the above,B
+Hierarchical inheritance has,Many base one derived,One base many derived,Many base many derived,Single inheritance,None of the above,B
+Hybrid inheritance is,Single inheritance only,Multiple inheritance only,Combination of inheritances,Multilevel only,None of the above,C
+Polymorphism means,One form one use,Many forms one entity,Many classes one object,One class many objects,None of the above,B
+Polymorphism works based on,Variable name,Function name,Arguments,Access modifier,None of the above,C
+Which condition supports polymorphism?,Same arguments same type,Different arguments,Different function name,Different class only,None of the above,B
+Static polymorphism is resolved at,Run time,Compile time,Link time,Load time,None of the above,B
+Function overloading is example of,Dynamic polymorphism,Static polymorphism,Inheritance,Binding,None of the above,B
+Function overriding is example of,Static polymorphism,Dynamic polymorphism,Encapsulation,Abstraction,None of the above,B
+Dynamic binding is done at,Compile time,Run time,Link time,Design time,None of the above,B
+Static binding is also called,Early binding,Late binding,Run time binding,Dynamic binding,None of the above,A
+Message passing refers to,Data hiding,Data transmission between objects,Function overloading,Memory sharing,None of the above,B
+Which header file is used for cin and cout?,stdio.h,conio.h,iostream,istream,None of the above,C
+cin is object of,ostream,istream,iostream,stream,None of the above,B
+cout uses which operator?,>>,<<,::,->,None of the above,B
+Which operator is used with cin?,<<,>>,::,.,None of the above,B
+Scope resolution operator is used to access,Local variable,Class variable,Global variable,Static variable,None of the above,C
+Which operator cannot be overloaded?,""" + """,*,::,[],None of the above,C
+new keyword is used to,Deallocate memory,Allocate memory,Resize memory,Copy memory,None of the above,B
+delete keyword is used to,Allocate memory,Initialize memory,Deallocate memory,Reallocate memory,None of the above,C
+Constructor is called,Manually,At compile time,Automatically on object creation,After main(),None of the above,C
+Constructor has which return type?,int,void,class name,No return type,None of the above,D
+Which constructor copies one object to another?,Default,Parameterized,Copy,Virtual,None of the above,C
+Which statement is TRUE?,Constructor can be inherited,Constructor has return type,Constructor name same as class,Constructor called manually,None of the above,C
+Statement 1: C++ started in 1979–80. Statement 2: C++ first appeared in 1985.,"Statement 1 is true, Statement 2 is false","Statement 1 is false, Statement 2 is true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: C++ was developed by Bjarne Stroustrup. Statement 2: It was developed at AT&T Bell Labs.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Class is a blueprint. Statement 2: Object is a blueprint.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Object is a physical entity. Statement 2: Object is an instance of class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Default access modifier in class is private. Statement 2: Private members are accessible outside class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Public members can be accessed anywhere. Statement 2: Protected members can be accessed in child class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Encapsulation means data hiding. Statement 2: Encapsulation wraps data and functions together.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Abstraction hides implementation details. Statement 2: Abstraction shows only required data.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Inheritance helps in code reuse. Statement 2: Inheritance increases duplication.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Base class is also called super class. Statement 2: Derived class is also called child class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Single level inheritance has one base and one derived class. Statement 2: It has multiple base classes.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Multilevel inheritance forms a chain. Statement 2: Derived class can act as base class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Multiple inheritance has more than one base class. Statement 2: It has only one derived class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Hierarchical inheritance has one base and many derived classes. Statement 2: It has many base classes.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Hybrid inheritance is combination of two or more inheritance types. Statement 2: It is the simplest inheritance.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Polymorphism means many forms. Statement 2: Polymorphism depends on function name only.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Function overloading depends on argument number or type. Statement 2: Function name remains same.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Static polymorphism is resolved at compile time. Statement 2: Dynamic polymorphism is resolved at run time.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Function overriding is example of dynamic polymorphism. Statement 2: It is decided at compile time.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Dynamic binding is also called late binding. Statement 2: It is done at run time.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Static binding is also called early binding. Statement 2: It is done at run time.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Message passing means communication between objects. Statement 2: Objects communicate using function calls.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: cin is object of istream. Statement 2: cout is object of ostream.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: cin uses >> operator. Statement 2: cout uses << operator.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Scope resolution operator accesses global variable. Statement 2: It can be overloaded.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: new allocates memory at runtime. Statement 2: delete deallocates memory.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Constructor name is same as class name. Statement 2: Constructor has return type.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Constructor is called automatically. Statement 2: Constructor can be inherited.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Statement 1: Copy constructor copies one object to another. Statement 2: Constructors can be overloaded.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Statement 1: Constructor can access private members. Statement 2: Constructor has no return type.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+A parameterized constructor is one which,Has no arguments,Has default values,Takes arguments only,More than one of the above,None of the above,C
+Statement 1: Parameterized constructor takes arguments. Statement 2: It initializes data at object creation.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Default argument constructor means,Constructor without arguments,Constructor with default values,Constructor called automatically,More than one of the above,None of the above,B
+If no value is passed to a default argument constructor,Default value is used,Garbage value is used,Error occurs,More than one of the above,None of the above,A
+Statement 1: Default argument constructor can work without passing values. Statement 2: It cannot take parameters.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Copy constructor is used to,Copy data between objects,Delete objects,Create objects only,More than one of the above,None of the above,A
+A copy constructor takes argument of type,Primitive type,Another class,Object of same class,More than one of the above,None of the above,C
+Statement 1: Copy constructor copies one object to another. Statement 2: It takes object of same class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Constructor overloading occurs when,Only one constructor exists,Multiple constructors with same name,Constructors have same parameters,More than one of the above,None of the above,B
+Constructor overloading is based on,Access modifier only,Return type only,Number or type of arguments,More than one of the above,None of the above,C
+Statement 1: Constructor overloading uses same constructor name. Statement 2: It requires different parameters.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Destructor name is,Class name only,~ClassName,Destructor,Class only,None of the above,B
+Destructor uses which symbol?,!,#,~,More than one of the above,None of the above,C
+Destructor can be overloaded,Yes,No,Only once,More than one of the above,None of the above,B
+Statement 1: Destructor takes no arguments. Statement 2: Destructor can be inherited.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Destructor is called,Manually,At compile time,Automatically when object is destroyed,More than one of the above,None of the above,C
+Statement 1: Destructor frees resources. Statement 2: Destructor has return type.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Which statement is correct about destructor,It can take parameters,It cannot be overloaded,It can be inherited,More than one of the above,None of the above,B
+Statement 1: Constructors can be overloaded. Statement 2: Destructors cannot be overloaded.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which of the following is TRUE?,Constructor has return type,Destructor has return type,Constructor name same as class,More than one of the above,None of the above,C
+Inheritance in C++ means,Copying one class,Using properties of one class in another,Calling class functions,Creating objects only,None of the above,B
+Which of the following best defines inheritance?,Code duplication,Code reuse,Data hiding,Binding,None of the above,B
+"Statement 1: In inheritance, base class properties are used in derived class. Statement 2: Inheritance increases code duplication.","Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Single level inheritance contains,One base and one derived,One base and many derived,Many base and one derived,Many base and many derived,None of the above,A
+Statement 1: Single level inheritance has one base class. Statement 2: It has multiple derived classes.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Multilevel inheritance forms,A tree structure,A chain structure,A circular structure,A hybrid structure,None of the above,B
+In multilevel inheritance,Derived class can act as base class,Base class acts as derived class,Multiple base classes exist,Only one class exists,None of the above,A
+Statement 1: Multilevel inheritance has only one derived class. Statement 2: Derived class can become base class.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,B
+Multiple inheritance means,One base many derived,Many base one derived,One base one derived,Hybrid only,None of the above,B
+Statement 1: Multiple inheritance uses more than one base class. Statement 2: It may increase complexity.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Hierarchical inheritance has,Many base one derived,One base many derived,Many base many derived,Single level only,None of the above,B
+Statement 1: Hierarchical inheritance uses one base class. Statement 2: It creates multiple derived classes.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Hybrid inheritance is,Single inheritance only,Multiple inheritance only,Combination of two or more inheritance types,Multilevel only,None of the above,C
+Statement 1: Hybrid inheritance combines different inheritance types. Statement 2: It is the simplest inheritance.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Which inheritance type is most complex?,Single,Multilevel,Hierarchical,Hybrid,None of the above,D
+Function overloading means,Same function name with same parameters,Same function name with different parameters,Different function name same parameters,Inheritance of functions,None of the above,B
+Statement 1: Function overloading depends on number of arguments. Statement 2: Function overloading depends on return type only.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Function overloading is example of,Encapsulation,Inheritance,Static polymorphism,Dynamic polymorphism,None of the above,C
+Statement 1: Function overloading uses same function name. Statement 2: Arguments may differ in number or type.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which of the following is TRUE?,Multiple inheritance has one base class,Hierarchical inheritance has one base class,Single inheritance has many base classes,Multilevel inheritance has no derived class,None of the above,B
+"In C++, a file is defined as",A program stored in memory,A collection of data stored with a name,A sequence of instructions,More than one of the above,None of the above,B
+Who assigns the file extension in C++ file system?,User,Compiler,Operating System,More than one of the above,None of the above,C
+Which of the following classes is used for file handling in C++?,fstream,ifstream,ofstream,More than one of the above,None of the above,D
+ifstream class is used for,File writing,File reading,Both reading and writing,More than one of the above,None of the above,B
+ofstream class is used for,File reading,File writing,Both reading and writing,More than one of the above,None of the above,B
+Statement 1: fstream supports both input and output. Statement 2: ifstream supports output only.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements true,More than one of the above,None of the above,A
+A stream in file handling represents,Sequence of bytes,Sequence of bits,Sequence of integers,More than one of the above,None of the above,A
+Which are the methods to open a file in C++?,using open() function,using constructor,using both,More than one of the above,None of the above,C
+ios::in mode is used to,Open file for writing,Open file for reading,Append data,More than one of the above,None of the above,B
+ios::out mode is used to,Open file for reading,Open file for writing,Open file in binary,More than one of the above,None of the above,B
+Append mode in C++ file handling is,ios::trunc,ios::in,ios::app,More than one of the above,None of the above,C
+Statement 1: ios::app adds data at the end of file. Statement 2: ios::app deletes old data.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements false,More than one of the above,None of the above,A
+Which file mode deletes all existing data of a file?,ios::in,ios::app,ios::trunc,More than one of the above,None of the above,C
+Binary file opening mode is,ios::binary,ios::text,ios::trunc,More than one of the above,None of the above,A
+"To open a file in multiple modes together, which operator is used?",Logical AND,Logical OR,Bitwise OR (|),More than one of the above,None of the above,C
+fopen() function is used to,Open file,Close file,Read file,More than one of the above,None of the above,A
+Which function writes a single character into a file?,fgetc(),fputc(),fputw(),More than one of the above,None of the above,B
+Which function reads a single character from a file?,fputc(),fgetc(),fgetw(),More than one of the above,None of the above,B
+Statement 1: ftell() returns current file pointer position. Statement 2: rewind() moves file pointer to beginning.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements true,More than one of the above,None of the above,C
+Which fopen() mode opens a binary file for both read and write?,rb,wb,ab,rb+,None of the above,D
+Friend function is used to,Access private members outside class,Access protected members outside class,Access public members only,More than one of the above,None of the above,D
+Which keyword is used to declare a friend function?,friend,friend_function,extern,static,None of the above,A
+A friend function is declared,Inside main(),Inside class boundary,Outside class only,More than one of the above,None of the above,B
+Statement 1: Friend function can access private members. Statement 2: Friend function is a class member.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Friend function is called,using object only,using dot operator only,like a normal function,More than one of the above,None of the above,C
+Which statement is TRUE about friend function?,It belongs to class scope,It can be called by object,It is not in class scope,More than one of the above,None of the above,C
+Friend function accesses class members,using this pointer,directly without object,using object and dot operator,More than one of the above,None of the above,C
+Friend function can be declared in which section of class?,Only private,Only public,Only protected,More than one of the above,None of the above,D
+Main disadvantage of friend function is,It increases security,It reduces encapsulation,It increases abstraction,More than one of the above,None of the above,B
+Statement 1: Too many friend functions reduce encapsulation. Statement 2: Friend functions improve data hiding.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Exception handling is used to,handle syntax errors,handle logical/runtime errors,handle compile-time errors,More than one of the above,None of the above,B
+try block contains,Code that never fails,Code that may generate exception,Code for output only,More than one of the above,None of the above,B
+throw keyword is used to,catch exception,throw exception,display error,More than one of the above,None of the above,B
+Statement 1: throw is used inside try block. Statement 2: throw sends exception to catch block.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+catch block is used to,throw exception,handle exception,terminate program,More than one of the above,None of the above,B
+catch block must be written,Before try block,Inside try block,After try block,More than one of the above,None of the above,C
+Multiple catch blocks are used to,handle multiple exceptions,increase program speed,avoid try block,More than one of the above,None of the above,A
+Correct order of exception handling is,Throw → Try → Catch,Try → Catch → Throw,Try → Throw → Catch,More than one of the above,None of the above,C
+Statement 1: Exception is first detected. Statement 2: catch handles exception.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which of the following is TRUE?,Friend function improves encapsulation,Exception handling avoids program crash,try block handles exception,More than one of the above,None of the above,B
+All members of a structure in C++ are by default,Public,Private,Protected,More Than One of The Above,None of The Above,A
+A computer program that translates high-level language program into machine language statement-by-statement is called,Compiler,Loader,Interpreter,More Than One of The Above,None of The Above,C
+"In C++, all members of a class are by default",Public,Private,Protected,More Than One of The Above,None of The Above,B
+"In C++, what does a class hold?",Array,Data,Data and Functions,More Than One of The Above,None of The Above,D
+The number of access specifiers in a C++ class is,2,3,4,More Than One of The Above,None of The Above,B
+Which of the following is used to define the members of a class externally in C++?,:,::,#,More Than One of The Above,None of The Above,B
+Which concept of C++ is used to reuse the written code?,Polymorphism,Inheritance,Encapsulation,More Than One of The Above,None of The Above,B
+"What will be the output of the program#include <stdio.h>int i = 10;void main(){    int i = 20;    {        int i = 30;        printf(""""%d, %d"""", i, ::i);    }}.fragment with printf(""""%d, %d"""", i, ::i)?","30, 10","30, 20","20, 30",More Than One of The Above,None of The Above,A
+"What will be the output of the following code: cout <<""FIRST""<<(a<<2)<<""SECOND"";",FIRST 52 SECOND,FIRST 20 SECOND,SECOND 25 FIRST,More Than One of The Above,None of The Above,E
+cout in C++ stands for,class output,character output,common output,More Than One of The Above,None of The Above,B
+Machine language is,Machine Dependent,Difficult To Program,Error Prone,More Than One of The Above,None of The Above,D
+An assembly language is a/an,Low Level Programming Language,Middle Level Programming Language,Internet Based Programming Language,More Than One of The Above,None of The Above,A
+Which of the following approaches is used by C++?,Left Right,Top Down,Bottom Up,More Than One of The Above,None of The Above,C
+What is virtual inheritance in C++?,Enhances multiple inheritance,Access private base members,Avoids multiple copies of base class,More Than One of The Above,None of The Above,C
+The C++ code which causes abnormal termination should be written under which block?,catch,throw,try,More Than One of The Above,None of The Above,C
+Pick the incorrect statement about inline functions in C++,Save overhead of function call,Generally very large and complicated,Substituted at point of call,More Than One of The Above,None of The Above,B
+What is an abstract class in C++?,Any derived class,Base class with virtual function,Base class with pure virtual function,More Than One of The Above,None of The Above,C
+Which constructor is provided by the compiler if not defined in a class?,Copy constructor,Default constructor,Parameterized constructor,More Than One of The Above,None of The Above,B
+How do structures and classes differ in C++?,Structure private by default,"Structure public, class private",Structure cannot have private members,More Than One of The Above,None of The Above,B
+Which features must be supported for a language to be pure OOP?,Encapsulation,Inheritance,Polymorphism,More Than One of The Above,None of The Above,D
+A programming language that can create new data types is called,Overloaded,Encapsulated,Extensible,More Than One of The Above,None of The Above,C
+Who is the original creator of C++?,Dennis Ritchie,Ken Thompson,Bjarne Stroustrup,More Than One of The Above,None of The Above,C
+Which expression gives the nth element of an array?,array[n],array[n-1],array[n+1],More Than One of The Above,None of The Above,B
+How many types of arrays are there in C++?,2,3,4,More Than One of The Above,None of The Above,A
+Which language is better for writing structured code?,PASCAL,FORTRAN,BASIC,More Than One of The Above,None of The Above,A
+Which language does a browser use to display information from the World Wide Web?,Machine code,Assembly language,C++,More Than One of The Above,None of The Above,E
+Select the true statement for compiler,The input of the compiler is source program,It translates the source code into object code as a whole,The output of the compiler is object code,More Than One of The Above,None of The Above,D
+Which of the following is not a valid variable name in most programming languages?,myVariable,123Variable,_myVariable,More Than One of The Above,None of The Above,B
+"If a semicolon is not used at the end of the statement, what message will be displayed by C++?",Semicolon missing,Statement missing,Error in statements,More Than One of The Above,None of The Above,E
+A set of libraries that provides programmatic access to 2D graphics functions is called,Graphics package,Formatting package,Animation package,More Than One of The Above,None of The Above,A
+Which shortcut key is used to compile and run a program in C++ (Turbo C++)?,Alt + F9,Alt + F5,Ctrl + F9,More Than One of The Above,None of The Above,C
+Which of the following is a user-defined header file extension in C++?,hg,cpp,h,More Than One of The Above,None of The Above,C
+What will happen if the following code is executed? int *ptr = NULL; delete ptr;,Program is not semantically correct,Program compiles and executes successfully,Compile-time error,More Than One of The Above,None of The Above,B
+Which of the following correctly declares an array in C++?,array{10};,int array;,int array[10];,More Than One of The Above,None of The Above,C
+What will be the output of the following code using char arrays and concatenation?,Hello,World,Error,More Than One of The Above,None of The Above,C
+"What is the output of the program? int a[] = {1,2,3,} *p;",Junk Value,Syntex Error,Runtime Error,More Than One of The Above,None of The Above,B
+Assume integer size is 4 bytes. What is the output of sizeof(k=i+j)? and value of k?,2 1,4 1,4 15,More Than One of The Above,None of The Above,C
+Which of the following is an advantage of using arrays?,Constant time insertion and deletion,Store different data types,Random access using index,More Than One of The Above,None of The Above,C
+Which of the following is a pillar of OOP?,Inheritance,Encapsulation,Abstraction,More Than One of The Above,None of The Above,D
+Which keyword is used in Java to implement inheritance?,extends,inherits,implements,More Than One of The Above,None of The Above,A
+Which access specifier allows access only within the same package?,private,public,package-private,More Than One of The Above,None of The Above,C
+Inheritance in OOP allows a class to,Inherit properties and behavior,Create instances of another class,Override methods,More Than One of The Above,None of The Above,A
+A program that converts assembly language to machine language is called,Compiler,Assembler,Linker,More Than One of The Above,None of The Above,B
+A program that converts high-level language to machine language is called,Assembler,Compiler,Loader,More Than One of The Above,None of The Above,B
+A constructor is called whenever,An object is created,A class is created,A class is declared,More Than One of The Above,None of The Above,A
+What is the scope of the variable declared in the user-defined function?,Whole program,Only inside the { } block,Inside the main function,More Than One of The Above,None of The Above,B
+Which is the correct definition of the is_array() function in C++?,It checks that the specified variable is an array or not,It checks that the specified array is single dimensional or not,It checks that the specified array is multidimensional or not,More Than One of The Above,None of The Above,A
+"Which of the following is true about new and malloc?.(1) The 'new' is a type of operator while 'malloc' is a kind of function. (II) The 'new' invokes a constructor, whereas 'malloc' does not invoke the constructor. (III) The 'malloc' returns void pointer and also needed to typecast whereas 'new' returns required pointer.",Only I,Both I and II,Both II and III,More Than One of The Above,None of The Above,D
+Which of the following can be inherited but not accessible in any class?,Public,Protected,Private,More Than One of The Above,None of The Above,C
+"Which of the following can be inherited but not accessible in any class?(I) In an OOP language, all the function calls are resolved at compile-time. (II) In a procedure programming language, all the function calls are resolved at compile-time.",Only II,Only I,Both I and II,More Than One of The Above,None of The Above,A
+What will happen if a class has no name in C++?,It is not allowed in C++,It will not have constructor,It will not have destructor,More Than One of The Above,None of The Above,C
+How can compile-time polymorphism be implemented in C++?,Using templates,Using inheritance,Using virtual functions and inheritance,More Than One of The Above,None of The Above,A
+Which concept refers to wrapping data and functionality into a single entity?,Modularity,Abstraction,Encapsulation,More Than One of The Above,None of The Above,C
+Which statement about modularity is correct?,Hiding program parts,Dividing program into small independent modules,Overloading program parts,More Than One of The Above,None of The Above,B
+Which looping statements are supported by PHP?,for and while,"for, while and do-while","for, while, do-while and foreach",More Than One of The Above,None of The Above,C
+Which function is used to sort an array in natural order?,natcasesort(),casesort(),naturalsort(),More Than One of The Above,None of The Above,A
+What are scripting languages?,Pre-decide web content,Simpler languages offering same protection,Languages trading simplicity for protection,More Than One of The Above,None of The Above,B
+What is the correct extension of a Python file?,.pyt,.pyth,.python,More Than One of The Above,None of The Above,E
+"In C, what is the typical size of int?",2 bytes,4 bytes,8 bytes,More Than One of The Above,None of The Above,E
+Which keyword is used to define a function in Python?,fun,def,def fun,More Than One of The Above,None of The Above,B
+What is the output of print(2**3) in Python?,6,8,9,More Than One of The Above,None of The Above,B
+What is the default value of boolean in Java?,TRUE,FALSE,0,More Than One of The Above,None of The Above,B
+What is the value of x after x=10; x+=5; ?,10,15,16,More Than One of The Above,None of The Above,B
+"What will be the output of printf(""%d"",5==5);",0,TRUE,1,More Than One of The Above,None of The Above,C
+Which language is considered the base of most modern programming languages?,Java,Python,Ruby,More Than One of The Above,None of The Above,B
+What is the use of break statement in loops?,Restart loop,Exit loop,Pause loop,More Than One of The Above,None of The Above,B
+"What will be the output of 3*""Hi"" in Python?",Error,HiHiHi,3Hi,More Than One of The Above,None of The Above,B
+Which function is used to accept input in C?,input(),cin,read(),More Than One of The Above,None of The Above,E
+What is the output of 4 + 3 * 2 in C?,14,9,10,More Than One of The Above,None of The Above,C
+All members of a structure in C++ are by default,Public,Private,Protected,More Than One of The Above,None of The Above,A
+A computer program that translates high-level language program into machine language statement-by-statement is called,Compiler,Loader,Interpreter,More Than One of The Above,None of The Above,C
+"In C++, all members of a class are by default",Public,Private,Protected,More Than One of The Above,None of The Above,B
+"In C++, what does a class hold?",Array,Data,Data and Functions,More Than One of The Above,None of The Above,D
+The number of access specifiers in a C++ class is,2,3,4,More Than One of The Above,None of The Above,B
+Which of the following is used to define the members of a class externally in C++?,:,::,#,More Than One of The Above,None of The Above,B
+Which concept of C++ is used to reuse the written code?,Polymorphism,Inheritance,Encapsulation,More Than One of The Above,None of The Above,B
+"What will be the output of the program#include <stdio.h>int i = 10;void main(){    int i = 20;    {        int i = 30;        printf(""""%d, %d"""", i, ::i);    }}.fragment with printf(""""%d, %d"""", i, ::i)?","30, 10","30, 20","20, 30",More Than One of The Above,None of The Above,A
+"What will be the output of the following code: cout <<""FIRST""<<(a<<2)<<""SECOND"";",FIRST 52 SECOND,FIRST 20 SECOND,SECOND 25 FIRST,More Than One of The Above,None of The Above,E
+cout in C++ stands for,class output,character output,common output,More Than One of The Above,None of The Above,B
+Machine language is,Machine Dependent,Difficult To Program,Error Prone,More Than One of The Above,None of The Above,D
+An assembly language is a/an,Low Level Programming Language,Middle Level Programming Language,Internet Based Programming Language,More Than One of The Above,None of The Above,A
+Which of the following approaches is used by C++?,Left Right,Top Down,Bottom Up,More Than One of The Above,None of The Above,C
+What is virtual inheritance in C++?,Enhances multiple inheritance,Access private base members,Avoids multiple copies of base class,More Than One of The Above,None of The Above,C
+The C++ code which causes abnormal termination should be written under which block?,catch,throw,try,More Than One of The Above,None of The Above,C
+Pick the incorrect statement about inline functions in C++,Save overhead of function call,Generally very large and complicated,Substituted at point of call,More Than One of The Above,None of The Above,B
+What is an abstract class in C++?,Any derived class,Base class with virtual function,Base class with pure virtual function,More Than One of The Above,None of The Above,C
+Which constructor is provided by the compiler if not defined in a class?,Copy constructor,Default constructor,Parameterized constructor,More Than One of The Above,None of The Above,B
+How do structures and classes differ in C++?,Structure private by default,"Structure public, class private",Structure cannot have private members,More Than One of The Above,None of The Above,B
+Which features must be supported for a language to be pure OOP?,Encapsulation,Inheritance,Polymorphism,More Than One of The Above,None of The Above,D
+A programming language that can create new data types is called,Overloaded,Encapsulated,Extensible,More Than One of The Above,None of The Above,C
+Who is the original creator of C++?,Dennis Ritchie,Ken Thompson,Bjarne Stroustrup,More Than One of The Above,None of The Above,C
+Which expression gives the nth element of an array?,array[n],array[n-1],array[n+1],More Than One of The Above,None of The Above,B
+How many types of arrays are there in C++?,2,3,4,More Than One of The Above,None of The Above,A
+Which of the following is a feature of Object Oriented Programming?,Procedural Approach,Encapsulation,Sequential Execution,More Than One of The Above,None of The Above,B
+"In C++, which operator is used to allocate memory dynamically?",alloc(),new,malloc(),More Than One of The Above,None of The Above,B
+Which of the following is not a valid data type in Java?,int,float,double,More Than One of The Above,None of The Above,E
+"In Python, which of the following data types is immutable?",List,Tuple,Set,More Than One of The Above,None of The Above,B
+Which of the following is a correct syntax for a function definition in C++?,function void myFunction ();,void myFunction {};,void myFunction ();,More Than One of The Above,None of The Above,C
+"In Java, which method is used to start a thread execution?",run(),start(),execute(),More Than One of The Above,None of The Above,B
+Which of the following is true about a constructor in C++?,It has a return type,It can be inherited,It has the same name as the class,More Than One of The Above,None of The Above,C
+Which of the following correctly describes the diamond problem in C++?,Occurs due to excessive memory allocation,Arises from multiple inheritance when two classes inherit from the same base class,Caused by dangling pointers,More Than One of The Above,None of The Above,B
+"What is the output of the given Java code using s1 == s2?public class Test { public static void main (String [] args) { String s1 = """"hello""""; String s2 = new String(""""hello""""); System.out.println(s1 == s2); } }",TRUE,FALSE,Compilation error,More Than One of The Above,None of The Above,B
+What is the difference between throw and throws in Java?,throw is for checked only; throws for unchecked,throw is used inside methods; throws in method signature,No difference,More Than One of The Above,None of The Above,B
+Which feature of Java ensures platform independence?,Java Compiler,Java Interpreter,JDK,More Than One of The Above,None of The Above,E
+Which part of JVM is responsible for loading class files?,Bytecode Verifier,JIT Compiler,Class Loader,More Than One of The Above,None of The Above,C
+What is the output of the Java expression x++ + ++x when x=5?public class Test { public static void main (String [] args) { int x = 5; System.out.println(x++ + ++x); }},10,11,12,More Than One of The Above,None of The Above,C
+"What will be the output of the given Python function call func(2)?def func (x, y=5):         return x + y print (func(2))",4,5,3,More Than One of The Above,None of The Above,E
+What is the difference between is and == in Python?,"is compares values, == compares identities","is compares identities, == compares values",Both are same,More Than One of The Above,None of The Above,B
+What is the output of the given C++ code with a and b assignment?int a = 10 int &b = a b = 20 cout << a;,10,20,Error,More Than One of The Above,None of The Above,B
+Which of the following C++ operators cannot be overloaded?,""" = """,(),[],More Than One of The Above,None of The Above,E
+"What will be the output of *(a + 2) for array {1,2,3,4}?",3,4,2,More Than One of The Above,None of The Above,A
+"What is the output when y = x++ and x = 5?int x = 5; int y = x++; printf (""""%d"""", y);",5,6,7,More Than One of The Above,None of The Above,A
+"What is the output of the Python code where list a is reassigned after concatenation?a = [1, 2, 3] b = a a = a + [4, 5] print (b)","[1, 2, 3]","[1, 2, 3, 4, 5]",Error,More Than One of The Above,None of The Above,A
+"What is the type of x when x = (1,)?x = (1,) print (type (x))",<class 'list'>,<class 'tuple'>,<class 'int'>,More Than One of The Above,None of The Above,B
+What will be the size of the char data type in C++?,1 byte,2 bytes,Depends on the compiler,More Than One of The Above,None of The Above,A
+Which component of Java is responsible for converting bytecode into machine code at runtime?,JDK,JRE,JVM,More Than One of The Above,None of The Above,C
+What is the purpose of the final keyword when applied to a class?,The class cannot have static methods,The class cannot have private fields,The class cannot be extended,More Than One of The Above,None of The Above,C
+Which of the following best defines abstraction in Java?,Hiding data members using private access,Overloading methods,Providing essential features and hiding internal details,More Than One of The Above,None of The Above,C
+"What will be the output of:. int x = 10;.printf(""%d %d %d"", x++, x++, x++);",10 11 12,12 11 10,10 12 11,More Than One of The Above,None of The Above,B
+"What will be the output of: a = 5. printf(""%d"", a++ + a);",10,11,12,More Than One of The Above,None of The Above,B
+"What is ""object slicing"" in C++?",Removing a member variable,Slicing a pointer array,Copying derived object into base object losing derived part,More Than One of The Above,None of The Above,C
+Which of the following best defines Encapsulation in C++?,Wrapping data and functions into a single unit,Hiding implementation details from user,Inheriting properties from base class,More Than One of The Above,None of The Above,A
+Which is NOT true about inheritance in C++?,Private members are inherited,Private members can be accessed directly,Inheritance supports reusability,More Than One of The Above,None of The Above,B
+Which type of inheritance leads to the diamond problem?,Single,Multilevel,Hybrid,More Than One of The Above,None of The Above,E
+"When one class has multiple functions with same name but different parameters, it is called",Overriding,Overloading,Virtualization,More Than One of The Above,None of The Above,B
+Which inheritance types are supported by C++?,Single,Multilevel,Multiple,More Than One of The Above,None of The Above,D
+What will cout << 10 / 4; print?,2.5,2,3,More Than One of The Above,None of The Above,B
+Which header file is required for setw and setprecision?,<iostream>,<iomanip>,<stdio.h>,More Than One of The Above,None of The Above,B
+What is the size of int in C on a 32-bit system?,8 byte,2 bytes,Depends on the compiler,More Than One of The Above,None of The Above,A
+Which of the following is used to define a class in C++?,struct,object,method,More Than One of The Above,None of The Above,E
+What is the correct way to declare a function that returns no value?,null function();,int function();,void function();,More Than One of The Above,None of The Above,C
+What is the correct syntax to inherit a class in C++?,class B inherits A {},class B > A {},class B extends A {},More Than One of The Above,None of The Above,E
+"What is the output of the pointer code modifying a?.#include<stdio.h>.int main().{.int a = 5;.int *ptr = &a;.*ptr += 1;.printf(""%d"", a);.return 0;.}",5,6,Compilation Error,More Than One of The Above,None of The Above,B
+What does the keyword mutable do?,Allows modification of member in const object,Makes object constant,Freezes object state,More Than One of The Above,None of The Above,A
+What is the correct order of constructor and destructor call in inheritance?,Base ctor → Derived ctor → Derived dtor → Base dtor,Derived ctor → Base ctor → Base dtor → Derived dtor,Base ctor → Derived ctor → Base dtor → Derived dtor,More Than One of The Above,None of The Above,A
+What is a memory leak in C?,Using uninitialized variables,Failing to free dynamically allocated memory,Stack overflow,More Than One of The Above,None of The Above,B
+Data Structure is,a programming language,a way to store data randomly,a method to organize and store data,a hardware component,None of the above,C
+Which of the following is a Simple Data Structure?,Stack,Tree,Array,Graph,None of the above,C
+Which data structure is Non-Linear?,Array,Stack,Queue,Tree,None of the above,D
+Linked List belongs to which category?,Simple DS,Non-linear DS,Linear Composite DS,Primitive DS,None of the above,C
+Which operation is NOT performed on data structures?,Insertion,Deletion,Searching,Compilation,None of the above,D
+Algorithm is,a complete program,a hardware process,a step-by-step solution,a compiler instruction,None of the above,C
+Which case of algorithm requires maximum time and memory?,Best case,Average case,Worst case,Optimal case,None of the above,C
+Statement 1: Algorithm is not a complete program. Statement 2: Algorithm needs time and memory.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Array stores elements of,Different data types,Same data type,Both same and different type,No data type,None of the above,B
+Array is called linear data structure because,elements are sorted,elements are continuous,elements stored in one line,elements are indexed,None of the above,C
+Index of first element in array is,1,-1,0,Depends on size,None of the above,C
+Which array stores data in rows and columns?,1D Array,2D Array,Linear Array,Simple Array,None of the above,B
+Total elements in 2D array arr[3][4] are,7,12,34,24,None of the above,B
+Statement 1: Array index starts from 0. Statement 2: Base address is address of first element.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Compile time initialization means,values given at runtime,values given by user,values given at declaration,values given by compiler,None of the above,C
+Stack follows which principle?,FIFO,LILO,LIFO,FILO,None of the above,C
+Insertion in stack is called,PUSH,POP,ENQUEUE,DEQUEUE,None of the above,A
+Deletion in stack is called,PUSH,POP,INSERT,REMOVE,None of the above,B
+Stack insertion and deletion happens at,REAR only,FRONT only,TOP only,Both ends,None of the above,C
+Stack overflow occurs when,TOP = -1,TOP < MAX,TOP = MAX,TOP > MAX,None of the above,C
+Stack underflow occurs when,TOP = 0,TOP = MAX,TOP = -1,TOP = 1,None of the above,C
+Statement 1: Stack uses LIFO. Statement 2: Queue uses FIFO.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which is NOT an application of stack?,Recursion,Function calling,String reverse,CPU Scheduling,None of the above,D
+Infix notation example is,""" A B + ""","""+ A B """,""" A + B """,""" AB+ """,None of the above,C
+Prefix notation places operator,before operands,after operands,between operands,at end only,None of the above,A
+Postfix notation example is,"""+ A B """,A + B,A B +,AB,None of the above,C
+Queue follows which principle?,LIFO,FILO,FIFO,LILO,None of the above,C
+Insertion in queue happens at,FRONT,REAR,Both ends,TOP,None of the above,B
+Deletion in queue happens at,REAR,FRONT,Both ends,TOP,None of the above,B
+Statement 1: Queue has FRONT and REAR. Statement 2: Stack has FRONT and REAR.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are false,More than one of the above,None of the above,A
+Which queue does not follow FIFO?,Simple Queue,Circular Queue,Priority Queue,Input Restricted Queue,None of the above,D
+"In Input Restricted Queue, insertion is allowed from",REAR only,FRONT only,Both ends,No end,None of the above,A
+"In Output Restricted Queue, deletion is allowed from",REAR only,FRONT only,Both ends,No deletion,None of the above,B
+Deque allows insertion and deletion from,FRONT only,REAR only,Both ends,No ends,None of the above,C
+Deque supports which structures?,Only stack,Only queue,Stack and Queue,Tree and Graph,None of the above,C
+Priority Queue processes elements based on,insertion order,deletion order,priority number,size,None of the above,C
+Ascending Priority Queue deletes elements in,ascending order,descending order,random order,insertion order,None of the above,A
+"If elements 4,3,2,1,5 are inserted in ascending priority queue, deletion order is","5,4,3,2,1","4,3,2,1,5","1,2,3,4,5",random,None of the above,C
+Descending Priority Queue deletes elements in,descending order,ascending order,FIFO,LIFO,None of the above,A
+Priority Queue is used in,Memory allocation,CPU Scheduling,String reverse,Graph traversal,None of the above,B
+Circular Queue connects,FRONT to TOP,TOP to REAR,FRONT to REAR,REAR to FRONT,None of the above,D
+Circular Queue is also called,Ring Buffer,Linear Buffer,Stack Queue,Double Queue,None of the above,A
+Statement 1: Circular Queue avoids memory wastage. Statement 2: Circular Queue connects front and rear.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which data structure is best for Undo/Redo?,Array,Queue,Stack,Linked List,None of the above,C
+Which operation visits all elements of DS?,Searching,Traversal,Insertion,Sorting,None of the above,B
+Sorting means,arranging randomly,arranging in order,deleting duplicates,inserting elements,None of the above,B
+What is the time complexity to insert an element at the beginning of an array?,O(1),O(log n),O(n),More than one of the above,None of the above,C
+Which data structure is used for BFS (Breadth First Search) traversal of a graph?,Stack,Queue,Tree,More than one of the above,None of the above,B
+What is the time complexity of inserting an element in a max-heap?,O(1),O(n),O(log n),More than one of the above,None of the above,C
+Which tree has all levels completely filled except possibly the last?,Binary Tree,Complete Binary Tree,AVL Tree,More than one of the above,None of the above,B
+Which of the following is not a stable sorting algorithm?,Merge Sort,Bubble Sort,Selection Sort,More than one of the above,None of the above,C
+What is the maximum number of nodes at level L in a binary tree?,2^L,2^(L-1),L,More than one of the above,None of the above,A
+Which of these is used to implement graph traversal?,Trees,Stack or Queue,Hashing,More than one of the above,None of the above,B
+What is the degree of a node?,Number of children,Number of ancestors,Level of node,More than one of the above,None of the above,A
+Which of the following traversal uses recursion heavily?,Level Order,Inorder,BFS,More than one of the above,None of the above,B
+In which structure are elements connected randomly?,Array,Linked List,Tree,More than one of the above,None of the above,D
+"In a min-heap, which node has the minimum value?",Left-most node,Any leaf node,Root node,More than one of the above,None of the above,C
+Which structure helps to check balanced parentheses in an expression?,Queue,Stack,Tree,More than one of the above,None of the above,B
+Which of these has the lowest space complexity?,Array,Hash Table,Stack,More than one of the above,None of the above,A
+Which structure is used in BFS?,Stack,Queue,Tree,More than one of the above,None of the above,B
+Which sorting algorithm is best for small datasets?,Merge Sort,Quick Sort,Insertion Sort,More than one of the above,None of the above,C
+What is the space complexity of merge sort?,O(1),O(log n),O(n),More than one of the above,None of the above,C
+Which of the following is NOT a component of DBMS?,Database Engine,Query Processor,File Manager,More than one of the above,None of the above,E
+In the 3-level architecture of DBMS. which level provides the physical storage details?,External Level,Conceptual Level,Internal Level,More than one of the above,None of the above,C
+The mapping between conceptual schema and internal schema is called:,External Mapping,Physical Mapping,Logical Mapping,More than one of the above,None of the above,B
+Which of the following ensures Logical Data Independence?,External ↔ Conceptual Mapping,Conceptual ↔ Internal Mapping,Internal Storage Organization,More than one of the above,None of the above,A
+In DBMS. the Query Processor is responsible for:,Storing data on disk,Managing data dictionary,Handling transaction concurrency,More than one of the above,None of the above,E
+Which of the following is a major reason for redundancy in file-based systems?,Absence of centralized control,Use of indexes,Data normalization,More than one of the above,None of the above,A
+Physical Data Independence allows:,Change in user view without changing database,Change in physical storage without affecting conceptual schema,Change in data type without affecting queries,More than one of the above,None of the above,B
+Which DBMS component is mainly responsible for Transaction Atomicity?,Query Processor,Concurrency Control Manager,Recovery Manager,More than one of the above,None of the above,C
+Which of the following is NOT a drawback of DBMS?,High initial cost,Complexity of system,Better data consistency,More than one of the above,None of the above,C
+Which of the following is true for file-based systems?,They provide logical data independence,They support centralized control,They suffer from integrity problems,More than one of the above,None of the above,C
+The Data Independence property directly supports:,Easier database maintenance,Slower query execution,Higher data redundancy,More than one of the above,None of the above,A
+Which DBMS component maintains the ACID properties of transactions?,Data Dictionary,Query Processor,File Manager,More than one of the above,None of the above,E
+Which DBMS component is mainly responsible for buffer management between disk and main memory?,Query Processor,Storage Manager,Recovery Manager,More than one of the above,None of the above,B
+The main reason for data inconsistency in file-based systems is:,Centralized access,Data duplication in multiple files,Indexing techniques,More than one of the above,None of the above,B
+The internal schema is concerned with:,How users view data,Logical structure of database,How data is physically stored,More than one of the above,None of the above,C
+Which of the following is NOT true about DBMS?,It provides centralized control,It supports redundancy elimination,It increases cost and complexity,More than one of the above,None of the above,E
+Which type of data independence is more difficult to achieve?,Logical Data Independence,Physical Data Independence,Both equally difficult,More than one of the above,None of the above,A
+Which of the following is a non-functional drawback of DBMS?,Expensive training for staff,Data consistency issues,Lack of concurrency,More than one of the above,None of the above,A
+Statement 1: DBMS provides abstraction through schemas. Statement 2: Traditional file systems lack such abstraction.,"Statement 1 true, Statement 2 false","Statement 1 false, Statement 2 true",Both statements are true,More than one of the above,None of the above,C
+Which DBMS component ensures that changes made by one transaction do not interfere with another until committed?,Query Processor,Storage Manager,Concurrency Control Manager,More than one of the above,None of the above,C
+Which of the following is an example of logical schema change?,Adding new attribute to a table,Changing file storage location,Reorganizing indexes,More than one of the above,None of the above,A
+Which level of DBMS provides security and authorization mechanisms?,Internal Level,Conceptual Level,External Level,More than one of the above,None of the above,B
+The DBMS storage manager is NOT responsible for,File organization,Indexing,Buffer management,More than one of the above,None of the above,E
+Which schema contains information about tables. constraints. and relationships?,Internal Schema,External Schema,Conceptual Schema,More than one of the above,None of the above,C
+Which of the following is a serious limitation of DBMS?,Data redundancy reduction,Complexity and overhead cost,Better security,More than one of the above,None of the above,B
+Data Independence in DBMS means,Ability to change data without affecting application programs,Ability to store unlimited data,Ability to restrict unauthorized access,More than one of the above,None of the above,A
+The DBMS acts as an interface between,Data and Queries,Users and Applications,Applications and Database,More than one of the above,None of the above,C
+The main goal of 3-level DBMS architecture is,Speed up query execution,Provide Data Independence,Increase data redundancy,More than one of the above,None of the above,B
+In the relational model. a relation is defined as,Collection of tuples and attributes,Collection of files and records,Collection of data blocks,More than one of the above,None of the above,A
+A candidate key in relational model is,A superkey with no redundant attribute,Always a foreign key,A key with duplicate attributes,More than one of the above,None of the above,A
+If a relation has multiple candidate keys. one of them is chosen as,Foreign Key,Super Key,Primary Key,More than one of the above,None of the above,C
+A foreign key in relational model refers to,A primary key of same relation,A key that uniquely identifies tuples,A primary key of another relation,More than one of the above,None of the above,C
+Which of the following is always unique in a relation?,Primary Key,Foreign Key,Candidate Key,More than one of the above,None of the above,D
+In ER model. entities represent,Real-world objects,Data values only,Relationships between objects,More than one of the above,None of the above,A
+A weak entity is identified by,Its own primary key,A partial key and a strong entity,Its relationship with foreign key,More than one of the above,None of the above,B
+Attributes that can be divided into smaller parts are called,Derived Attributes,Composite Attributes,Multivalued Attributes,More than one of the above,None of the above,B
+If one student can register in many courses and each course can have many students. this is a,One-to-One Relationship,One-to-Many Relationship,Many-to-Many Relationship,More than one of the above,None of the above,C
+Cardinality in ER model refers to,Number of attributes in entity,Maximum and minimum participation of entities in a relationship,Number of candidate keys in relation,More than one of the above,None of the above,B
+During conversion of ER diagram to tables. a multivalued attribute is handled by,Keeping it in the same table,Creating a new table for it,Ignoring it,More than one of the above,None of the above,B
+If an ER diagram has a weak entity. then in relational schema,Weak entity becomes a normal table,Weak entity table must include primary key of strong entity as foreign key,Weak entity does not need a key,More than one of the above,None of the above,B
+A database schema is best described as,A collection of programs,Logical structure of the database,Physical location of data,More than one of the above,None of the above,B
+The entity on the many side of a 1–M relationship has which key?,Primary key,Foreign key,Composite key,More than one of the above,None of the above,B
+Deadlock occurs when,Two transactions wait for each other,Both transactions halt,Both hold locks that the other needs,More than one of the above,None of the above,D
+Which schedule always guarantees serializability?,Conflict-serializable schedule,Serial schedule,Precedence schedule,More than one of the above,None of the above,B
+Composite attributes are converted into which form in relational model?,Multiple attributes,A single combined attribute,Separate table,More than one of the above,None of the above,A
+Referential integrity constraint ensures,No orphan records,Valid foreign key values,Relationship between tables,More than one of the above,None of the above,D
+A transaction is isolated if,It runs without interference,It affects other transactions,It shares updates,More than one of the above,None of the above,A
+Dirty write occurs when,Writing over uncommitted data,Writing after commit,Committed data overwritten,More than one of the above,None of the above,A
+"If X → Y and Y → Z, then X → Z is known as",Decomposition,Transitivity rule,Augmentation,More than one of the above,None of the above,B
+Which concurrency control technique causes least blocking?,Locking,Timestamp ordering,Two Phase Locking,More than one of the above,None of the above,B
+The minimal set of attributes that uniquely identifies tuples is,Super key,Candidate key,Primary key,More than one of the above,None of the above,B
+Fully functional dependency is handled in which normal form?,1NF,2NF,3NF,More than one of the above,None of the above,B
+A relation schema is also known as,Table structure,Table instance,Data dictionary,More than one of the above,None of the above,A
+Entity type defines,A group of objects with same attributes,Attribute values,Relationship type,More than one of the above,None of the above,A
+What causes update anomaly?,Redundant data,Missing foreign key,Weak entity,More than one of the above,None of the above,A
+What is the result of incorrect decomposition of a table?,Loss of data,Anomalies increase,Both A and B,More than one of the above,None of the above,C
+A transaction performing read and write operations is called,Active transaction,Compensating transaction,Unisystem transaction,More than one of the above,None of the above,A
+A minimal cover of functional dependencies must be,Minimal left side,Minimal right side,Non-redundant,More than one of the above,None of the above,D
+Database catalog stores,Schema definitions,User data,Log records,More than one of the above,None of the above,A
+A foreign key must reference,Candidate key,Primary key,Super key,More than one of the above,None of the above,D
+"In Two Phase Locking, a lock is released when",Growing phase ends,Shrinking phase begins,Transaction commits,More than one of the above,None of the above,B
+Phantom problem is solved using,Predicate locks,Range locks,Index locking,More than one of the above,None of the above,D
+Dirty read occurs when,Reading uncommitted data,Writing uncommitted data,Overwriting committed data,More than one of the above,None of the above,A
+Lost update occurs when,Two updates overwrite each other,Uncommitted data is read,New rows appear,More than one of the above,None of the above,A
+Non-repeatable read means,Same row read gives different values,Reading uncommitted data,New rows appear,More than one of the above,None of the above,A
+Phantom read means,Same query returns new rows,Reading dirty data,Update lost,More than one of the above,None of the above,A
