@@ -1,0 +1,61 @@
+question,option1,option2,option3,option4,option5,answer
+Data Structure is used to,Compile programs,Organize data systematically,Execute OS functions,Increase CPU speed,None of the above,B
+Which of the following is a Simple Data Structure?,Stack,Tree,Graph,Array,More than one of the above,D
+Which of the following belongs to Composite Data Structure?,Array,Structure,Stack,int,None of the above,C
+Linear Data Structure stores data in,Network form,Random form,Hierarchical form,Sequential form,None of the above,D
+Which of the following is Non-Linear Data Structure?,Queue,Linked List,Tree,Stack,None of the above,C
+Which operation is used to add an element in DS?,Deletion,Searching,Insertion,Traversing,None of the above,C
+Sorting means,Deleting data,Updating data,Arranging data in order,Searching data,None of the above,C
+Traversing means,Removing data,Processing each element,Adding element,Finding element,None of the above,B
+Which is a Linear Data Structure?,Tree,Graph,Queue,Array,More than one of the above,E
+Which of the following are operations on Data Structure?,Insertion,Deletion,Searching,More than one of the above,None of the above,D
+Algorithm is,A programming language,A step-by-step solution,A compiler,A hardware device,None of the above,B
+Algorithm is,Complete program,Only logic steps,Memory device,Input device,None of the above,B
+Time Complexity measures,Memory used,Time taken,CPU design,Register size,None of the above,B
+Space Complexity measures,Time taken,Memory used,Execution speed,Input size,None of the above,B
+Worst Case means,Minimum time,Average time,Maximum time,No execution,None of the above,C
+Best Case means,Maximum memory,Minimum time and memory,Random execution,Longest path,None of the above,B
+Average Case means,Minimum performance,Maximum performance,Normal expected performance,No execution,None of the above,C
+Tree and Graph are examples of,Simple DS,Linear DS,Non-Linear DS,Primitive DS,None of the above,C
+Stack belongs to,Simple DS,Linear Composite DS,Non-linear DS,Primitive DS,None of the above,B
+Structure is built using,Primary data types,Only arrays,Only stack,Tree nodes,None of the above,A
+A company wants to store marks of 100 students in continuous memory locations. Which DS should be used?,Stack,Queue,Array,Tree,None of the above,C
+A browser needs to store visited pages in order and allow backward navigation. Which DS is suitable?,Queue,Tree,Stack,Graph,None of the above,C
+A railway reservation system needs FIFO processing. Which DS is best?,Stack,Queue,Tree,Linked List,None of the above,B
+An organization chart of a company needs hierarchical representation. Which DS is suitable?,Array,Stack,Tree,Queue,None of the above,C
+A social network where users are connected to multiple users is best represented using,Stack,Array,Tree,Graph,None of the above,D
+"If data must be arranged in ascending order before processing, which operation is used?",Deletion,Insertion,Sorting,Traversing,None of the above,C
+A search engine looks for a specific record in a list. Which DS operation is applied?,Sorting,Searching,Deletion,Traversing,None of the above,B
+"If an algorithm performs best when input size is already sorted, this is called",Average case,Worst case,Best case,Random case,None of the above,C
+An algorithm takes maximum time when input size increases significantly. This represents,Best case,Worst case,Average case,Traversal case,None of the above,B
+A data processing system updates salary records frequently. Which DS operation is mainly used?,Insertion,Deletion,Searching,Updation,None of the above,D
+An array is defined as,A group of different data types,A collection of similar data types,A random memory block,A non-linear structure,None of the above,B
+Array is categorized as,Non-linear DS,Primitive DS,Linear Data Structure,Graph structure,None of the above,C
+"In an array, elements are stored",In random memory locations,In tree form,In sequential memory locations,In graph format,None of the above,C
+All elements in an array must be,Same data type,Different data type,Random type,User defined,None of the above,A
+The index of first element in C array is,1,-1,0,Depends on user,None of the above,C
+Which of the following is a valid 1D array declaration?,int arr[5];,int arr();,int arr{};,array int[5];,None of the above,A
+Total elements in int arr[2][3] are,5,6,8,9,None of the above,B
+2D array stores data in the form of,Stack,Linked List,Matrix,Tree,None of the above,C
+"If arr[0] = 4 and arr[1] = 9, then 9 is stored at index",0,1,2,3,None of the above,B
+Which initialization assigns values during declaration?,Run-time initialization,Compile-time initialization,Dynamic allocation,Traversal,None of the above,B
+"int arr[5] = {1,2,3,4,5}; is an example of",Run-time input,Compile-time initialization,2D array,Searching,None of the above,B
+Run-time initialization means,Values fixed before program run,Values taken during execution,Values from compiler,Values auto-generated,None of the above,B
+"In 2D array int arr[3][4], number of rows is",3,4,7,12,None of the above,A
+"In 2D array int arr[3][4], number of columns is",3,4,7,12,None of the above,B
+Accessing array elements is done using,Parenthesis (),Curly braces {},Square brackets [],Angle brackets <>,None of the above,C
+Array size must be defined at,Compile time,Run time,Random time,After execution,None of the above,A
+Which operation is easiest in array?,Random access,Deletion at middle,Tree traversal,Graph mapping,None of the above,A
+"If array size is 5, maximum valid index is",5,4,6,Depends on value,None of the above,B
+Array elements are stored in,Non-contiguous memory,Contiguous memory,Virtual memory only,Cache only,None of the above,B
+Which of the following is TRUE about arrays?,Elements are sequential,Elements are unordered,Elements are different types,Elements are dynamic sized,None of the above,A
+A teacher wants to store marks of 50 students of same subject. Which DS is most suitable?,Tree,Array,Graph,Stack,None of the above,B
+A matrix of 3 rows and 4 columns needs storage. Which structure is best?,1D Array,2D Array,Stack,Queue,None of the above,B
+A program takes 5 integers from user during execution. This is example of,Compile-time initialization,Run-time initialization,Matrix declaration,Tree structure,None of the above,B
+A system requires direct access to any element using index. Which DS supports this efficiently?,Linked List,Tree,Array,Graph,None of the above,C
+A programmer writes int arr[5]; and later takes input from user. This is,Compile-time,Run-time,Traversal,Sorting,None of the above,B
+An application needs to store temperature readings sequentially. Which DS is best?,Array,Graph,Tree,Stack,None of the above,A
+Which structure will waste memory if size is fixed but data is less?,Linked List,Array,Tree,Graph,None of the above,B
+"If arr[2][1] is accessed, this refers to",Row 2 Column 1,Row 1 Column 2,Index error,Invalid access,None of the above,A
+A 2D array of size 4x5 will contain how many elements?,9,20,25,16,None of the above,B
+A program needs to store similar type data in continuous memory. Which structure is most appropriate?,Stack,Array,Tree,Graph,None of the above,B
