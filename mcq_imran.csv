@@ -1,0 +1,31 @@
+question,option1,option2,option3,option4,option5,answer
+Stack follows which principle?,FIFO,LIFO,LILO,More than one of the above,None of the above,B
+"In Stack, insertion operation is called",POP,PUSH,DELETE,More than one of the above,None of the above,B
+"In Stack, deletion operation is called",POP,PUSH,INSERT,More than one of the above,None of the above,A
+Stack uses which pointer to access elements?,FRONT,REAR,TOP,More than one of the above,None of the above,C
+"When TOP == MAX and we try to PUSH, it is called",Underflow,Overflow,Traversal,More than one of the above,None of the above,B
+"When TOP == -1 and we try to POP, it is called",Overflow,Underflow,Sorting,More than one of the above,None of the above,B
+Which of the following are applications of Stack?,Expression evaluation,Backtracking,Memory management,More than one of the above,None of the above,D
+Which notation places operator between operands?,Prefix,Postfix,Infix,More than one of the above,None of the above,C
+Queue follows which principle?,LIFO,FIFO,Random,More than one of the above,None of the above,B
+"In Double Ended Queue (Deque), insertion and deletion can be done at",Front only,Rear only,Both ends,More than one of the above,None of the above,C
+Priority Queue processes elements based on,Arrival time,Priority number,Stack rule,More than one of the above,None of the above,B
+"In Ascending Priority Queue, deletion occurs in",Random order,Descending order,Ascending order,More than one of the above,None of the above,C
+Circular Queue is also known as,Linear buffer,Ring Buffer,Stack Queue,More than one of the above,None of the above,B
+"In Linked List, each node contains",Data only,Data and Next pointer,Three data values,More than one of the above,None of the above,B
+The last node of Linked List contains NULL in,Next field,Data field,Head pointer,More than one of the above,None of the above,A
+Which Linked List allows traversal in both directions?,Singly Linked List,Circular Linked List,Doubly Linked List,More than one of the above,None of the above,C
+Which structure has fixed size?,Linked List,Array,Tree,More than one of the above,None of the above,B
+Memory in Linked List is allocated using,Stack memory,Heap memory,Register memory,More than one of the above,None of the above,B
+Which of the following are types of Linked List?,Singly,Doubly,Circular,More than one of the above,None of the above,D
+Which DS supports both Stack and Queue operations?,Circular Queue,Deque,Tree,More than one of the above,None of the above,B
+A browser needs backward navigation feature. Which DS is suitable?,Queue,Tree,Stack,More than one of the above,None of the above,C
+CPU scheduling based on priority number uses,Stack,Priority Queue,Circular Queue,More than one of the above,None of the above,B
+A printer queue processes jobs in arrival order. Which DS is used?,Stack,Queue,Linked List,More than one of the above,None of the above,B
+A music playlist needs forward and backward movement. Which DS is best?,Singly Linked List,Doubly Linked List,Array,More than one of the above,None of the above,B
+"If memory size is dynamic and frequent insertions are required, which DS is suitable?",Array,Linked List,Stack,More than one of the above,None of the above,B
+A system where both front and rear operations are needed should use,Stack,Deque,Priority Queue,More than one of the above,None of the above,B
+"When evaluating postfix expression, which DS is required?",Array,Stack,Tree,More than one of the above,None of the above,B
+"If rear reaches end and queue has empty space at beginning, which queue solves this issue?",Linear Queue,Circular Queue,Priority Queue,More than one of the above,None of the above,B
+A navigation system representing connections between cities uses,Stack,Array,Tree,More than one of the above,None of the above,E
+"If deletion must occur in descending priority order, which queue is used?",Ascending Priority Queue,Descending Priority Queue,Circular Queue,More than one of the above,None of the above,B
